@@ -21,7 +21,7 @@ For this project, we are processing a reduced subset of this data to build our K
 3. **Enrichment:** Connections are enriched with weights (e.g., major vs. minor themes) and textual justifications.
 
 ##  Workflow & Data Flow
-1. **Data Ingestion:** Raw data (themes and annotations) is loaded from the `literature/` directory.
-2. **Graph Construction:** The `KG.py` script parses the data and builds the nodes (Themes, Stories) and edges (Relationships, Occurrences).
-3. **Graph Export/Query:** The resulting Knowledge Graph is exported into a standardized format for further analysis or querying.
+1. **Data Ingestion:** Raw annotation files (`.txt` format, currently focused on "plays") are loaded from the `literature/` directory.
+2. **Data Extraction:** The `KG.py` script parses the text files to extract the title of the work and identifies associated themes categorized as major, minor, or choice themes.
+3. **Edge List Generation:** The extracted relationships are exported into an `output.csv` file. This CSV serves as the foundational edge list (Work -> Theme, with the Type as the relationship property) for building the actual Knowledge Graph in the next steps.
 
