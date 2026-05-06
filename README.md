@@ -25,9 +25,3 @@ For this project, we are processing a reduced subset of this data to build our K
 2. **Graph Construction:** The `KG.py` script parses the data and builds the nodes (Themes, Stories) and edges (Relationships, Occurrences).
 3. **Graph Export/Query:** The resulting Knowledge Graph is exported into a standardized format for further analysis or querying.
 
-##  Installation & Setup
-
-Clone the repository to your local machine:
-```bash
-git clone [https://github.com/YOUR-USERNAME/Theme-Ontology_KnowledgeGraph.git](https://github.com/YOUR-USERNAME/Theme-Ontology_KnowledgeGraph.git)
-cd Theme-Ontology_KnowledgeGraph
