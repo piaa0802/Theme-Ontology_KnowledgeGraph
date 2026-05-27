@@ -1,0 +1,814 @@
+Work,Theme,Type
+Arms and the Man,the senselessness of war,major
+Arms and the Man,the horrors of war,major
+Arms and the Man,infatuation,major
+Arms and the Man,love triangle,major
+Arms and the Man,engaged couple,major
+Arms and the Man,mother and daughter,minor
+Arms and the Man,husband and wife,minor
+Arms and the Man,father and daughter,minor
+Arms and the Man,rivalry,minor
+Candida,love triangle,major
+Candida,infatuation,major
+Candida,obsessive love,major
+Candida,unrequited love,major
+Candida,husband and wife,major
+Candida,the nature of love,major
+Candida,the battle of the sexes,major
+Candida,romantic jealousy,major
+Candida,test of love,minor
+Candida,epic love,minor
+Major Barbara,arms trade,major
+Major Barbara,realist vs. idealist,major
+Major Barbara,inheritance fight,major
+Major Barbara,husband and wife,major
+Major Barbara,mother and son,major
+Major Barbara,father and son,major
+Major Barbara,father and daughter,major
+Major Barbara,mother and daughter,major
+Major Barbara,the senselessness of war,minor
+Major Barbara,the horrors of war,minor
+Man and Superman,female sexuality,major
+Man and Superman,romantic courtship,major
+Man and Superman,hominid evolution,major
+Man and Superman,the future of human evolution,major
+Man and Superman,mother and daughter,minor
+Man and Superman,father and daughter,minor
+Man and Superman,coping with the death of a parent,minor
+Man and Superman,female independence,minor
+Man and Superman,rivalry,minor
+Misalliance,human sexuality,major
+Misalliance,female sexuality,major
+Misalliance,romantic courtship,major
+Misalliance,the nature of love,major
+Misalliance,engaged couple,major
+Misalliance,father and daughter,major
+Misalliance,young and old romance,major
+Misalliance,love triangle,major
+Misalliance,infatuation,major
+Misalliance,the desire for vengeance,minor
+Misalliance,mother and son,minor
+Misalliance,husband and wife,minor
+Mrs. Warren's Profession,mother and daughter,major
+Mrs. Warren's Profession,female independence,major
+Mrs. Warren's Profession,prostitution vs. poverty,major
+Mrs. Warren's Profession,sex trade in society,major
+Mrs. Warren's Profession,female empowerment,major
+Mrs. Warren's Profession,boyfriend and girlfriend,major
+Mrs. Warren's Profession,prostitution,minor
+Mrs. Warren's Profession,young and old romance,minor
+Mrs. Warren's Profession,unrequited love,minor
+Mrs. Warren's Profession,sacrifice for a loved one,minor
+Pygmalion,sociolinguistics,major
+Pygmalion,rise to prominence from humble beginnings,major
+Pygmalion,manners,major
+Pygmalion,social inequality,major
+Pygmalion,character metamorphosis,major
+Pygmalion,man vs. woman,major
+Pygmalion,what it is like to be different,minor
+Pygmalion,table manners,minor
+Pygmalion,romantic relationship,minor
+Pygmalion,husband and wife,minor
+Pygmalion,learning languages,minor
+The Devil's Disciple,the human capacity for good and evil,major
+The Devil's Disciple,human self-sacrifice for another,major
+The Devil's Disciple,cowardice,major
+The Devil's Disciple,courage,major
+The Devil's Disciple,black sheep,minor
+The Devil's Disciple,mother and son,minor
+The Devil's Disciple,husband and wife,minor
+The Devil's Disciple,love triangle,minor
+The Devil's Disciple,what it is like in a legal proceeding,minor
+The Devil's Disciple,legal occupation,minor
+The Doctor's Dilemma,medical triage,major
+The Doctor's Dilemma,infatuation,major
+The Doctor's Dilemma,con artistry,major
+The Doctor's Dilemma,husband and wife,major
+The Doctor's Dilemma,love triangle,major
+The Doctor's Dilemma,healthcare in society,major
+The Doctor's Dilemma,duty vs. love,major
+The Doctor's Dilemma,the calculus of human life,major
+The Doctor's Dilemma,doctor-patient confidentiality,minor
+The Doctor's Dilemma,experimental medical procedure,minor
+The Doctor's Dilemma,The Hippocratic Oath,minor
+The Doctor's Dilemma,art discussion,minor
+The Doctor's Dilemma,painting,minor
+The Wild Duck,father and daughter,choice
+The Wild Duck,familial love,choice
+The Wild Duck,having a skeleton in the closet,choice
+The Wild Duck,blindness,major
+The Wild Duck,parenting a physically disabled child,major
+The Wild Duck,neglectful parent,major
+The Wild Duck,husband and wife,major
+The Wild Duck,extramarital affair,major
+The Wild Duck,realist vs. idealist,major
+The Wild Duck,to tell the truth vs. to offer a comforting lie,major
+The Wild Duck,escape from reality,minor
+A Midsummer Night's Dream,romantic love,choice
+A Midsummer Night's Dream,unrequited love,choice
+A Midsummer Night's Dream,love triangle,choice
+A Midsummer Night's Dream,obsessive love,major
+A Midsummer Night's Dream,Ancient Greek mythology,major
+A Midsummer Night's Dream,the nature of love,major
+A Midsummer Night's Dream,father and daughter,minor
+A Midsummer Night's Dream,running away from home,minor
+A Midsummer Night's Dream,the theater,minor
+A Midsummer Night's Dream,acting,minor
+A Midsummer Night's Dream,mother and son,minor
+A Midsummer Night's Dream,choosing between love and family,minor
+A Midsummer Night's Dream,master and servant,minor
+All's Well That Ends Well,unrequited love,choice
+All's Well That Ends Well,attitude of superiority,major
+All's Well That Ends Well,the desire for glory in battle,major
+All's Well That Ends Well,male lasciviousness,major
+All's Well That Ends Well,honor,major
+All's Well That Ends Well,cowardice,major
+All's Well That Ends Well,husband and wife,major
+All's Well That Ends Well,be careful what you wish for,major
+All's Well That Ends Well,courtly intrigues,major
+All's Well That Ends Well,taking a high-stakes wager vs. walking away,minor
+All's Well That Ends Well,medical occupation,minor
+All's Well That Ends Well,love triangle,minor
+All's Well That Ends Well,mother and son,minor
+All's Well That Ends Well,coping with being ill and indisposed,minor
+All's Well That Ends Well,fall from grace,minor
+Antony and Cleopatra,star-crossed lovers,choice
+Antony and Cleopatra,obsessive love,choice
+Antony and Cleopatra,the lust for power,major
+Antony and Cleopatra,courtly intrigues,major
+Antony and Cleopatra,femme fatale,major
+Antony and Cleopatra,suicide,major
+Antony and Cleopatra,betrayal,major
+Antony and Cleopatra,coping with the death of a spouse,minor
+Antony and Cleopatra,love vs. career,minor
+Antony and Cleopatra,honorable suicide,minor
+Antony and Cleopatra,coping with the death of a lover,minor
+As You Like It,romantic love,choice
+As You Like It,the battle of the sexes,choice
+As You Like It,friendship,major
+As You Like It,infatuation,major
+As You Like It,love triangle,major
+As You Like It,gender bending,major
+As You Like It,love at first sight,major
+As You Like It,childhood as an outsider,minor
+As You Like It,facing being evicted from one's home,minor
+As You Like It,rich character vs. poor character,minor
+As You Like It,unrequited love,minor
+As You Like It,male lasciviousness,minor
+As You Like It,reconciliation,minor
+Coriolanus,heroism,choice
+Coriolanus,pride,choice
+Coriolanus,the need to maintain an image,choice
+Coriolanus,courtly intrigues,major
+Coriolanus,attitude of superiority,major
+Coriolanus,contraposed political ideologies,major
+Coriolanus,the desire for vengeance,major
+Coriolanus,mother and son,major
+Coriolanus,betrayal,major
+Coriolanus,treason,major
+Coriolanus,rich character vs. poor character,minor
+Coriolanus,hatred,minor
+Coriolanus,facing a mortal enemy,minor
+Coriolanus,husband and wife,minor
+Coriolanus,father and son,minor
+Coriolanus,humility,minor
+"Cymbeline,""Britain, is a play by William Shakespeare set in Ancient Britain (c. 10–14)"",minor"
+Cymbeline,husband and wife,major
+Cymbeline,love triangle,major
+Cymbeline,the lust for power,major
+Cymbeline,courtly intrigues,major
+Cymbeline,extramarital affair,major
+Cymbeline,long-distance relationship,major
+Cymbeline,choosing between conflicting loyalties,major
+Cymbeline,romantic jealousy,major
+Cymbeline,poison murder,major
+Cymbeline,test of love,minor
+Cymbeline,stepmother and stepdaughter,minor
+Cymbeline,father and daughter,minor
+Cymbeline,master and servant,minor
+Cymbeline,the battle of the sexes,minor
+Cymbeline,regicide,minor
+Cymbeline,spouse murder,minor
+Cymbeline,war,minor
+Cymbeline,gender bending,minor
+Cymbeline,brother and brother,minor
+Hamlet,regicide,choice
+Hamlet,the desire for vengeance,choice
+Hamlet,courtly intrigues,choice
+Hamlet,despair,choice
+Hamlet,the lust for power,major
+Hamlet,poison murder,major
+Hamlet,descent into madness,major
+Hamlet,romantic love,major
+Hamlet,the nature of death,major
+Hamlet,decision making in the face of uncertainty,major
+Hamlet,mother and son,major
+Hamlet,father and son,major
+Hamlet,coping with the death of a parent,major
+Hamlet,the desire for justice,major
+Hamlet,acting,major
+Hamlet,Oedipus complex,major
+Hamlet,fratricide,minor
+Hamlet,husband and wife,minor
+Hamlet,ghost,minor
+Hamlet,contemplating suicide,minor
+Hamlet,stepfather and stepson,minor
+Hamlet,war,minor
+Hamlet,friendship,minor
+Hamlet,coping with the death of a family member,minor
+Hamlet,suicide in society,minor
+Hamlet,what if I had to fight to the death,minor
+Henry IV, Part 1,father and son,major
+Henry IV, Part 1,independence struggle,major
+Henry IV, Part 1,history,major
+Henry IV, Part 1,cowardice,major
+Henry IV, Part 1,the need to prove one's self,major
+Henry IV, Part 1,fatherly disappointment in a son,major
+Henry IV, Part 1,communicating with someone who speaks a different language,minor
+Henry IV, Part 1,what if I had to fight to the death,minor
+Henry IV, Part 2,friendship,major
+Henry IV, Part 2,father and son,major
+Henry IV, Part 2,coping with being ill and indisposed,major
+Henry IV, Part 2,coping with aging,major
+Henry IV, Part 2,betrayal,major
+Henry IV, Part 2,civil war,major
+Henry IV, Part 2,fatherly disappointment in a son,major
+Henry IV, Part 2,history,major
+Henry IV, Part 2,infatuation,minor
+Henry IV, Part 2,master and servant,minor
+Henry IV, Part 2,corruption in society,minor
+Henry IV, Part 2,young character vs. old character,minor
+Henry IV, Part 2,brother and brother,minor
+Henry IV, Part 2,coping with the death of a parent,minor
+Henry IV, Part 2,magnanimity in victory,minor
+Henry IV, Part 2,integrity,minor
+Henry IV, Part 2,coming of age,minor
+Henry V,war,major
+Henry V,history,major
+Henry V,the horrors of war,major
+Henry V,patriotism,major
+Henry V,coping with the rigors of command,major
+Henry V,communicating with someone who speaks a different language,major
+Henry V,coping with the death of a friend,minor
+Henry V,the desire for glory in battle,minor
+Henry V,mercy,minor
+Henry V,Christianity,minor
+Henry V,infatuation,minor
+Henry V,duty vs. love,minor
+Henry VI, Part 2,courtly intrigues,choice
+Henry VI, Part 2,the lust for power,choice
+Henry VI, Part 2,war,major
+Henry VI, Part 2,history,major
+Henry VI, Part 2,civil war,major
+Henry VI, Part 2,husband and wife,major
+Henry VI, Part 2,extramarital affair,major
+Henry VI, Part 2,coping with the defeat of one's people,major
+Henry VI, Part 2,absolute monarchy,major
+Henry VI, Part 2,courage in the face of death,minor
+Henry VI, Part 2,coping with the death of someone,minor
+Henry VI, Part 2,anti-intellectualism in society,minor
+Henry VI, Part 2,communism,minor
+Henry VI, Part 2,contraposed political ideologies,minor
+Henry VI, Part 2,coping with the death of a lover,minor
+Henry VI, Part 2,duty vs. conscience,minor
+Henry VI, Part 2,what if I had to fight to the death,minor
+Henry VI, Part 2,coping with the death of a parent,minor
+Henry VI, Part 3,the desire for vengeance,choice
+Henry VI, Part 3,the horrors of war,choice
+Henry VI, Part 3,civil war,major
+Henry VI, Part 3,absolute monarchy,major
+Henry VI, Part 3,the lust for power,major
+Henry VI, Part 3,courage in the face of death,minor
+Henry VI, Part 3,father and son,minor
+Henry VI, Part 3,mother and son,minor
+Henry VI, Part 3,husband and wife,minor
+Henry VI, Part 3,brother and brother,minor
+Henry VI, Part 3,what if I had to fight to the death,minor
+Henry VI, Part 3,coping with the death of a parent,minor
+Henry VI, Part 3,coping with the death of a child,minor
+Henry VI, Part 3,coping with having injured someone,minor
+Henry VI, Part 3,sexual harassment,minor
+Henry VI, Part 1,war,choice
+Henry VI, Part 1,history,major
+Henry VI, Part 1,civil war,major
+Henry VI, Part 1,the lust for power,major
+Henry VI, Part 1,absolute monarchy,major
+Henry VI, Part 1,coping with the defeat of one's people,minor
+Henry VIII,fall from grace,choice
+Henry VIII,divorce,major
+Henry VIII,what is truth,major
+Henry VIII,courtly intrigues,major
+Henry VIII,husband and wife,major
+Henry VIII,treason,major
+Henry VIII,what if I was accused of a crime that I didn't commit,minor
+Henry VIII,facing one's own execution,minor
+Julius Caesar,choosing between conflicting loyalties,choice
+Julius Caesar,democracy vs. autocracy,choice
+Julius Caesar,sacrifice for one's beliefs,choice
+Julius Caesar,taking the law into one's own hands,major
+Julius Caesar,political assassination,major
+Julius Caesar,treason,major
+Julius Caesar,betrayal,major
+Julius Caesar,civil war,major
+Julius Caesar,suicide,major
+Julius Caesar,honorable suicide,major
+Julius Caesar,husband and wife,minor
+Julius Caesar,omens,minor
+Julius Caesar,flattery,minor
+Julius Caesar,fortune telling,minor
+Julius Caesar,humility,minor
+Julius Caesar,in-law relationship,minor
+Julius Caesar,the desire for vengeance,minor
+King John,war of succession,choice
+King John,war,major
+King John,uncle and nephew,minor
+King John,mother and son,minor
+King John,pride,minor
+King John,the need to know one's roots,minor
+King John,choosing between conflicting loyalties,minor
+King John,duty vs. compassion,minor
+King John,murder,minor
+King John,remorse,minor
+King John,suicide,minor
+King Lear,father and daughter,choice
+King Lear,honesty,choice
+King Lear,honest character vs. deceitful character,choice
+King Lear,family dispute,major
+King Lear,handing over the mantle before retirement,major
+King Lear,parental disappointment in a child,major
+King Lear,loyalty to one's family,major
+King Lear,loyalty to a leader,major
+King Lear,sister and sister,major
+King Lear,fall from grace,major
+King Lear,cruelty,major
+King Lear,husband and wife,major
+King Lear,betrayal,major
+King Lear,coping with aging,major
+King Lear,master and servant,minor
+King Lear,descent into madness,minor
+King Lear,human vs. the elements <storm>,minor
+King Lear,pleasure in the misfortune of another,minor
+King Lear,civil war,minor
+King Lear,war,minor
+King Lear,blindness,minor
+King Lear,treason,minor
+King Lear,father and son,minor
+King Lear,brother and brother,minor
+King Lear,fratricide,minor
+King Lear,coping with the death of a child,minor
+Love's Labour's Lost,chastity,major
+Love's Labour's Lost,promiscuity,major
+Love's Labour's Lost,forbidden love,major
+Love's Labour's Lost,obsessive love,major
+Love's Labour's Lost,infatuation,major
+Love's Labour's Lost,poetry,major
+Macbeth,betrayal,choice
+Macbeth,the lust for power,choice
+Macbeth,the dangers of unchecked ambition,choice
+Macbeth,regicide,major
+Macbeth,treason,major
+Macbeth,husband and wife,major
+Macbeth,loyalty to a leader,major
+Macbeth,witchcraft,major
+Macbeth,loyalty to a friend,major
+Macbeth,remorse,major
+Macbeth,second guessing one's self,major
+Macbeth,civil war,major
+Macbeth,the desire for vengeance,major
+Macbeth,destiny,major
+Macbeth,becoming a harder person,minor
+Macbeth,coping with the death of one's entire family,minor
+Macbeth,descent into madness,minor
+Macbeth,coping with the death of a spouse,minor
+Macbeth,what if I had to fight to the death,minor
+Macbeth,coping with the death of a child,minor
+Macbeth,suicide,minor
+Measure for Measure,mercy,choice
+Measure for Measure,mercy vs. justice,choice
+Measure for Measure,what if I had to have sex in order to save someone,major
+Measure for Measure,test of loyalty,major
+Measure for Measure,brother and sister,major
+Measure for Measure,having a baby out of wedlock,major
+Measure for Measure,obsessive love,major
+Measure for Measure,corruption in society,major
+Measure for Measure,the letter of the law vs. the spirit of the law,major
+Measure for Measure,ruthless character vs. merciful character,major
+Measure for Measure,ruthlessness,major
+Measure for Measure,prostitution in society,major
+Measure for Measure,hypocritical character,major
+Measure for Measure,self-confidence,minor
+Measure for Measure,prostitution,minor
+Measure for Measure,war,minor
+Measure for Measure,facing one's own execution,minor
+Measure for Measure,law enforcement,minor
+Measure for Measure,religious occupation,minor
+Measure for Measure,duty vs. conscience,minor
+Much Ado About Nothing,romantic love,choice
+Much Ado About Nothing,love-hate relationship,choice
+Much Ado About Nothing,infatuation,major
+Much Ado About Nothing,sexual norms in society,major
+Much Ado About Nothing,father and daughter,major
+Much Ado About Nothing,engaged couple,major
+Much Ado About Nothing,friendship,major
+Much Ado About Nothing,romantic infidelity,major
+Much Ado About Nothing,religious occupation,minor
+Much Ado About Nothing,coping with the death of a lover,minor
+Much Ado About Nothing,brother and brother,minor
+Much Ado About Nothing,uncle and niece,minor
+Much Ado About Nothing,law enforcement,minor
+Othello,first published in 1565.,minor
+Othello,jealousy,choice
+Othello,the desire for vengeance,choice
+Othello,extramarital affair,major
+Othello,love triangle,major
+Othello,husband and wife,major
+Othello,romantic love,major
+Othello,friendship,major
+Othello,betrayal,major
+Othello,murder,major
+Othello,spouse murder,major
+Othello,suicide,major
+Othello,remorse,major
+Othello,coping with having injured someone,major
+Othello,romantic jealousy,major
+Othello,the desire for professional success,major
+Othello,workplace rivalry,major
+Othello,false friend,major
+Othello,unrequited love,minor
+Othello,coping with having a bad reputation,minor
+Othello,father and daughter,minor
+Othello,racism in society,minor
+Othello,ignorance is bliss,minor
+Othello,honesty,minor
+Othello,facing death,minor
+Pericles, Prince of Tyre,reunion with a loved one,choice
+Pericles, Prince of Tyre,perilous voyage at sea,major
+Pericles, Prince of Tyre,female-female rivalry,major
+Pericles, Prince of Tyre,reunion with a long lost child,major
+Pericles, Prince of Tyre,being bitter about one's life,major
+Pericles, Prince of Tyre,father and daughter,major
+Pericles, Prince of Tyre,incest in society,minor
+Pericles, Prince of Tyre,love at first sight,minor
+Pericles, Prince of Tyre,incestuous relationship,minor
+Pericles, Prince of Tyre,sacrifice for a loved one,minor
+Pericles, Prince of Tyre,fall from grace,minor
+Pericles, Prince of Tyre,coping with the death of a spouse,minor
+Pericles, Prince of Tyre,husband and wife,minor
+Pericles, Prince of Tyre,duty vs. conscience,minor
+Pericles, Prince of Tyre,sex trade in society,minor
+Pericles, Prince of Tyre,mother and daughter,minor
+Richard II,civil war,choice
+Richard II,courtly intrigues,major
+Richard II,absolute monarchy,major
+Richard II,history,major
+Richard II,betrayal,major
+Richard II,self-confidence,major
+Richard II,father and son,major
+Richard II,treason,major
+Richard II,what if I had to fight to the death,minor
+Richard II,corruption in society,minor
+Richard II,murder,minor
+Richard II,what if I could never go home,minor
+Richard II,husband and wife,minor
+Richard II,aunt and nephew,minor
+Richard II,facing life in captivity,minor
+"Richard III,""one, but it is sometimes called a tragedy, as in the quarto edition."",minor"
+Richard III,the lust for power,choice
+Richard III,courtly intrigues,choice
+Richard III,treason,choice
+Richard III,coping with being disfigured,major
+Richard III,parricide,major
+Richard III,betrayal,major
+Richard III,divine retribution,major
+Richard III,humility,major
+Richard III,civil war,major
+Richard III,facing an extraordinary accusation,minor
+Richard III,coping with the death of a spouse,minor
+Richard III,coping with unwelcome romantic attention,minor
+Richard III,coping with the death of a child,minor
+Richard III,resentment,minor
+Richard III,wrestling with one's conscience,minor
+Richard III,coping with the death of a family member,minor
+Richard III,sacred sanctuary,minor
+Richard III,fratricide,minor
+Richard III,spouse murder,minor
+Richard III,being bitter about one's life,minor
+Richard III,mother and son,minor
+Richard III,motherly disappointment in a son,minor
+Richard III,sacrifice for a loved one,minor
+Richard III,acute anxiety,minor
+Richard III,uncle and nephew,minor
+Richard III,the horrors of war,minor
+Romeo and Juliet,star-crossed lovers,choice
+Romeo and Juliet,young lovers,choice
+Romeo and Juliet,choosing between love and family,choice
+Romeo and Juliet,coping with the death of a lover,choice
+Romeo and Juliet,vendetta,major
+Romeo and Juliet,the human capacity for good and evil,major
+Romeo and Juliet,ironic twist of fate,major
+Romeo and Juliet,the desire for vengeance,major
+Romeo and Juliet,suicide,major
+Romeo and Juliet,love conquers all,major
+Romeo and Juliet,mother and daughter,minor
+Romeo and Juliet,friendship,minor
+Romeo and Juliet,love at first sight,minor
+Romeo and Juliet,religious occupation,minor
+Romeo and Juliet,master and servant,minor
+Romeo and Juliet,marriage ceremony,minor
+Romeo and Juliet,coping with having injured someone,minor
+Romeo and Juliet,disapproving parent,minor
+Romeo and Juliet,arranged marriage,minor
+Romeo and Juliet,husband and wife,minor
+Romeo and Juliet,father and daughter,minor
+Romeo and Juliet,coping with the death of a child,minor
+Romeo and Juliet,breaking the law for personal advantage,minor
+Romeo and Juliet,reconciliation,minor
+The Comedy of Errors,extramarital affair,major
+The Comedy of Errors,husband and wife,major
+The Comedy of Errors,master and servant,major
+The Comedy of Errors,twin and twin,minor
+The Comedy of Errors,sister and sister,minor
+The Merchant of Venice,the desire for vengeance,choice
+The Merchant of Venice,mercy,choice
+The Merchant of Venice,mercy vs. justice,choice
+The Merchant of Venice,antisemitism in society,major
+The Merchant of Venice,facing loan sharks,major
+The Merchant of Venice,facing financial ruin,major
+The Merchant of Venice,father and daughter,major
+The Merchant of Venice,romantic love,major
+The Merchant of Venice,ruthlessness,major
+The Merchant of Venice,sacrifice for a friend,major
+The Merchant of Venice,homosexuality in society,minor
+The Merchant of Venice,Christianity,minor
+The Merchant of Venice,Judaism,minor
+The Merchant of Venice,unrequited love,minor
+The Merchant of Venice,test of love,minor
+The Merchant of Venice,love is blind,minor
+The Merry Wives of Windsor,romantic jealousy,choice
+The Merry Wives of Windsor,gold digging,major
+The Merry Wives of Windsor,love triangle,major
+The Merry Wives of Windsor,infatuation,major
+The Merry Wives of Windsor,husband and wife,major
+The Merry Wives of Windsor,prejudice against someone of a different social class,major
+The Merry Wives of Windsor,engaged couple,minor
+The Merry Wives of Windsor,the desire for vengeance,minor
+The Merry Wives of Windsor,test of love,minor
+The Merry Wives of Windsor,master and servant,minor
+"The Taming of the Shrew,""often referred to as the induction,"",minor"
+The Taming of the Shrew,gold digging,choice
+The Taming of the Shrew,shrew character,choice
+The Taming of the Shrew,husband and wife,choice
+The Taming of the Shrew,getting a taste of one's own medicine,major
+The Taming of the Shrew,infatuation,major
+The Taming of the Shrew,coping with a spoiled brat,major
+The Taming of the Shrew,man vs. woman,major
+The Taming of the Shrew,father and daughter,minor
+The Taming of the Shrew,sister and sister,minor
+The Taming of the Shrew,master and servant,minor
+The Taming of the Shrew,female-female rivalry,minor
+The Tempest,treason,choice
+The Tempest,father and daughter,major
+The Tempest,master and servant,major
+The Tempest,the theater,major
+The Tempest,magic powers,major
+The Tempest,infatuation,major
+The Tempest,the desire for vengeance,major
+The Tempest,loyalty to a leader,major
+The Tempest,poverty in society,minor
+The Tempest,folk belief,minor
+"The Two Gentlemen of Verona,""Shakespeare's first play,"",minor"
+The Two Gentlemen of Verona,love vs. friendship,choice
+The Two Gentlemen of Verona,infatuation,choice
+The Two Gentlemen of Verona,romantic courtship,choice
+The Two Gentlemen of Verona,falling out of friendship,major
+The Two Gentlemen of Verona,friendship,major
+The Two Gentlemen of Verona,love triangle,major
+The Two Gentlemen of Verona,betrayal,major
+The Two Gentlemen of Verona,unrequited love,major
+The Two Gentlemen of Verona,gender bending,major
+The Two Gentlemen of Verona,remorse,major
+The Two Gentlemen of Verona,father and daughter,minor
+The Two Gentlemen of Verona,father and son,minor
+The Two Gentlemen of Verona,coping with the death of a lover,minor
+The Two Gentlemen of Verona,gender issue,minor
+The Two Gentlemen of Verona,love is blind,minor
+The Winter's Tale,mistrust,choice
+The Winter's Tale,romantic love,choice
+The Winter's Tale,husband and wife,major
+The Winter's Tale,romantic jealousy,major
+The Winter's Tale,what if I was accused of a crime that I didn't commit,major
+The Winter's Tale,romantic infidelity,major
+The Winter's Tale,crime,major
+The Winter's Tale,father and son,major
+The Winter's Tale,friendship,major
+The Winter's Tale,reunion with a loved one,major
+The Winter's Tale,engaged couple,major
+The Winter's Tale,remorse,major
+The Winter's Tale,reconciliation,major
+The Winter's Tale,to kill or to spare,minor
+The Winter's Tale,infanticide,minor
+The Winter's Tale,what it is like in a legal proceeding,minor
+The Winter's Tale,religious prophesy,minor
+The Winter's Tale,theft,minor
+The Winter's Tale,fatherly disappointment in a son,minor
+The Winter's Tale,anthropomorphic object come to life,minor
+Timon of Athens,false friend,choice
+Timon of Athens,greed for riches,choice
+Timon of Athens,generosity,major
+Timon of Athens,friendship,major
+Timon of Athens,facing financial ruin,major
+Timon of Athens,master and servant,major
+Timon of Athens,misanthropy,major
+Timon of Athens,the desire for vengeance,major
+Timon of Athens,mercy vs. justice,minor
+Timon of Athens,flattery,minor
+Titus Andronicus,the desire for vengeance,choice
+Titus Andronicus,vendetta,choice
+Titus Andronicus,hate begets hate,choice
+Titus Andronicus,sexual assault,major
+Titus Andronicus,murder,major
+Titus Andronicus,coping with the death of a child,major
+Titus Andronicus,extramarital affair,major
+Titus Andronicus,the instinct for violence,major
+Titus Andronicus,anarchy,major
+Titus Andronicus,father and son,major
+Titus Andronicus,father and daughter,major
+Titus Andronicus,mother and daughter,major
+Titus Andronicus,brother and brother,major
+Titus Andronicus,descent into madness,major
+Titus Andronicus,coping with having been raped,major
+Titus Andronicus,sadism,major
+Titus Andronicus,Ancient Roman mythology,minor
+Titus Andronicus,coping with having injured someone,minor
+Titus Andronicus,what if I were being framed for a crime,minor
+Titus Andronicus,brother and sister,minor
+Titus Andronicus,grandfather and grandson,minor
+Titus Andronicus,uncle and nephew,minor
+Titus Andronicus,coping with the death of a parent,minor
+Titus Andronicus,racism in society,minor
+Titus Andronicus,paternal love,minor
+Titus Andronicus,choosing whether to kill someone to spare them suffering,minor
+Troilus and Cressida,war,choice
+Troilus and Cressida,heroism,choice
+Troilus and Cressida,romantic love,choice
+Troilus and Cressida,infatuation,major
+Troilus and Cressida,love vs. career,major
+Troilus and Cressida,the desire for vengeance,major
+Troilus and Cressida,irreverence,major
+Troilus and Cressida,choosing between lovers,major
+Troilus and Cressida,star-crossed lovers,major
+Troilus and Cressida,uncle and niece,minor
+Troilus and Cressida,romantic courtship,minor
+Troilus and Cressida,male homosexuality,minor
+Troilus and Cressida,father and son,minor
+Troilus and Cressida,husband and wife,minor
+Troilus and Cressida,brother and sister,minor
+Troilus and Cressida,coping with aging,minor
+Twelfth Night,infatuation,choice
+Twelfth Night,gender bending,major
+Twelfth Night,love triangle,major
+Twelfth Night,romantic courtship,major
+Twelfth Night,manners,minor
+Twelfth Night,hospitality,minor
+Twelfth Night,secret crush,minor
+Twelfth Night,facing financial ruin,minor
+Twelfth Night,uncle and niece,minor
+Twelfth Night,brother and sister,minor
+Twelfth Night,master and servant,minor
+Twelfth Night,friendship,minor
+Twelfth Night,facing an extraordinary accusation,minor
+Adelphoe,human parenting,choice
+Adelphoe,father and son,choice
+Adelphoe,brother and brother,major
+Adelphoe,human characters in contrast,major
+Adelphoe,fatherly disappointment in a son,major
+Adelphoe,uncle and nephew,major
+Adelphoe,master and slave,major
+Adelphoe,carrot vs. stick,minor
+Adelphoe,the importance of reputation,minor
+Adelphoe,family honor,minor
+Adelphoe,anger,minor
+Adelphoe,human idea about life,minor
+Adelphoe,remorse,minor
+Adelphoe,creative writing,minor
+Adelphoe,neighbor and neighbor,minor
+Adelphoe,slavery,minor
+Adelphoe,theft,minor
+Adelphoe,honesty,minor
+Adelphoe,greed for riches,minor
+Adelphoe,uptight character vs. laid back character,minor
+Adelphoe,infatuation,minor
+Adelphoe,slave trade,minor
+Hecyra,mother-in-law and daughter-in-law,major
+Hecyra,father and son,major
+Hecyra,mother and son,major
+Hecyra,romantic love,major
+Hecyra,father and daughter,major
+Hecyra,mother and daughter,major
+Hecyra,husband and wife,major
+Hecyra,father-in-law and daughter-in-law,major
+Hecyra,neighbor and neighbor,major
+Hecyra,coping with a family issue,major
+Hecyra,family dispute,major
+Hecyra,sexual assault,major
+Hecyra,disapproving parent,minor
+Hecyra,arranged marriage,minor
+Hecyra,placing blame,minor
+Hecyra,ironic twist of fate,minor
+Hecyra,choosing between love and family,minor
+Hecyra,master and slave,minor
+Hecyra,the battle of the sexes,minor
+Hecyra,male stereotype,minor
+Hecyra,female stereotype,minor
+Hecyra,misogyny,minor
+Hecyra,human idea about life,minor
+Hecyra,mother-in-law and son-in-law,minor
+Hecyra,father-in-law and son-in-law,minor
+Hecyra,what it is like to travel,minor
+Hecyra,hedonism,minor
+Hecyra,extramarital affair,minor
+Hecyra,prostitution,minor
+Hecyra,unknown parent,minor
+Phormio,infatuation,choice
+Phormio,con artistry,major
+Phormio,master and slave,major
+Phormio,brother and brother,major
+Phormio,father and son,major
+Phormio,uncle and nephew,major
+Phormio,husband and wife,major
+Phormio,mother and son,major
+Phormio,family dispute,major
+Phormio,extramarital affair,minor
+Phormio,coping with the death of a parent,minor
+Phormio,fatherly disappointment in a son,minor
+Phormio,arranged marriage,minor
+Phormio,legal occupation,minor
+Phormio,omens,minor
+Phormio,price inflation in society,minor
+Phormio,hypocritical character,minor
+Phormio,social dysfunction,minor
+Phormio,slavery,minor
+Phormio,greed for riches,minor
+Phormio,divination,minor
+Phormio,orphanhood,minor
+Phormio,blackmail,minor
+The Eunuch,obsessive love,major
+The Eunuch,male-male rivalry,major
+The Eunuch,reunion with a loved one,major
+The Eunuch,master and slave,major
+The Eunuch,love triangle,major
+The Eunuch,unrequited love,major
+The Eunuch,romantic jealousy,major
+The Eunuch,human social need,minor
+The Eunuch,brother and brother,minor
+The Eunuch,love at first sight,minor
+The Eunuch,flattery,minor
+The Eunuch,torture,minor
+The Eunuch,brother and sister,minor
+The Eunuch,sexual assault,minor
+The Eunuch,father and son,minor
+The Eunuch,creative writing,minor
+The Eunuch,coping with the death of a parent,minor
+The Eunuch,Ancient Roman mythology,minor
+The Eunuch,false friend,minor
+The Eunuch,slave trade,minor
+The Eunuch,impersonation,minor
+The Girl from Andros,father and son,choice
+The Girl from Andros,fatherly disappointment in a son,major
+The Girl from Andros,infatuation,major
+The Girl from Andros,master and slave,major
+The Girl from Andros,choosing between love and family,major
+The Girl from Andros,arranged marriage,major
+The Girl from Andros,friendship,major
+The Girl from Andros,love vs. friendship,minor
+The Girl from Andros,father and daughter,minor
+The Girl from Andros,promiscuity,minor
+The Girl from Andros,lovers' quarrel,minor
+The Girl from Andros,keeping secrets,minor
+The Girl from Andros,miserliness,minor
+The Girl from Andros,mimetic desire,minor
+The Girl from Andros,moderation in all things,minor
+The Girl from Andros,prejudicial attitude of superiority against someone less well off than one's self,minor
+The Self-Tormentor,father and son,choice
+The Self-Tormentor,neighbor and neighbor,major
+The Self-Tormentor,friendship,major
+The Self-Tormentor,infatuation,major
+The Self-Tormentor,beating one's self up,major
+The Self-Tormentor,fatherly disappointment in a son,major
+The Self-Tormentor,remorse,major
+The Self-Tormentor,reconciliation,major
+The Self-Tormentor,con artistry,major
+The Self-Tormentor,master and slave,major
+The Self-Tormentor,disapproving parent,major
+The Self-Tormentor,female stereotype,minor
+The Self-Tormentor,miserliness,minor
+The Self-Tormentor,husband and wife,minor
+The Self-Tormentor,infanticide,minor
+The Self-Tormentor,mother and son,minor
+The Self-Tormentor,unknown parent,minor
+The Self-Tormentor,brother and sister,minor
+The Self-Tormentor,creative writing,minor
+The Self-Tormentor,gold digging,minor
+The Self-Tormentor,arranged marriage,minor
+The Self-Tormentor,getting a taste of one's own medicine,minor
+The Self-Tormentor,hypocritical character,minor
