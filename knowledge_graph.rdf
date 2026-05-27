@@ -1,0 +1,1030 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="http://example.org/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://example.org/The_Merry_Wives_of_Windsor">
+    <ns1:hasTheme rdf:resource="http://example.org/romantic_jealousy"/>
+    <ns1:hasTheme rdf:resource="http://example.org/gold_digging"/>
+    <ns1:hasTheme rdf:resource="http://example.org/love_triangle"/>
+    <ns1:hasTheme rdf:resource="http://example.org/infatuation"/>
+    <ns1:hasTheme rdf:resource="http://example.org/husband_and_wife"/>
+    <ns1:hasTheme rdf:resource="http://example.org/prejudice_against_someone_of_a_different_social_class"/>
+    <ns1:hasTheme rdf:resource="http://example.org/engaged_couple"/>
+    <ns1:hasTheme rdf:resource="http://example.org/the_desire_for_vengeance"/>
+    <ns1:hasTheme rdf:resource="http://example.org/test_of_love"/>
+    <ns1:hasTheme rdf:resource="http://example.org/master_and_servant"/>
+    <ns1:themeType>choice</ns1:themeType>
+    <ns1:themeType>major</ns1:themeType>
+    <ns1:themeType>minor</ns1:themeType>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Hecyra">
+    <ns1:hasTheme rdf:resource="http://example.org/mother_in_law_and_daughter_in_law"/>
+    <ns1:hasTheme rdf:resource="http://example.org/father_and_son"/>
+    <ns1:hasTheme rdf:resource="http://example.org/mother_and_son"/>
+    <ns1:hasTheme rdf:resource="http://example.org/romantic_love"/>
+    <ns1:hasTheme rdf:resource="http://example.org/father_and_daughter"/>
+    <ns1:hasTheme rdf:resource="http://example.org/mother_and_daughter"/>
+    <ns1:hasTheme rdf:resource="http://example.org/husband_and_wife"/>
+    <ns1:hasTheme rdf:resource="http://example.org/father_in_law_and_daughter_in_law"/>
+    <ns1:hasTheme rdf:resource="http://example.org/neighbor_and_neighbor"/>
+    <ns1:hasTheme rdf:resource="http://example.org/coping_with_a_family_issue"/>
+    <ns1:hasTheme rdf:resource="http://example.org/family_dispute"/>
+    <ns1:hasTheme rdf:resource="http://example.org/sexual_assault"/>
+    <ns1:hasTheme rdf:resource="http://example.org/disapproving_parent"/>
+    <ns1:hasTheme rdf:resource="http://example.org/arranged_marriage"/>
+    <ns1:hasTheme rdf:resource="http://example.org/placing_blame"/>
+    <ns1:hasTheme rdf:resource="http://example.org/ironic_twist_of_fate"/>
+    <ns1:hasTheme rdf:resource="http://example.org/choosing_between_love_and_family"/>
+    <ns1:hasTheme rdf:resource="http://example.org/master_and_slave"/>
+    <ns1:hasTheme rdf:resource="http://example.org/the_battle_of_the_sexes"/>
+    <ns1:hasTheme rdf:resource="http://example.org/male_stereotype"/>
+    <ns1:hasTheme rdf:resource="http://example.org/female_stereotype"/>
+    <ns1:hasTheme rdf:resource="http://example.org/misogyny"/>
+    <ns1:hasTheme rdf:resource="http://example.org/human_idea_about_life"/>
+    <ns1:hasTheme rdf:resource="http://example.org/mother_in_law_and_son_in_law"/>
+    <ns1:hasTheme rdf:resource="http://example.org/father_in_law_and_son_in_law"/>
+    <ns1:hasTheme rdf:resource="http://example.org/what_it_is_like_to_travel"/>
+    <ns1:hasTheme rdf:resource="http://example.org/hedonism"/>
+    <ns1:hasTheme rdf:resource="http://example.org/extramarital_affair"/>
+    <ns1:hasTheme rdf:resource="http://example.org/prostitution"/>
+    <ns1:hasTheme rdf:resource="http://example.org/unknown_parent"/>
+    <ns1:themeType>major</ns1:themeType>
+    <ns1:themeType>minor</ns1:themeType>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Macbeth">
+    <ns1:hasTheme rdf:resource="http://example.org/betrayal"/>
+    <ns1:hasTheme rdf:resource="http://example.org/the_lust_for_power"/>
+    <ns1:hasTheme rdf:resource="http://example.org/the_dangers_of_unchecked_ambition"/>
+    <ns1:hasTheme rdf:resource="http://example.org/regicide"/>
+    <ns1:hasTheme rdf:resource="http://example.org/treason"/>
+    <ns1:hasTheme rdf:resource="http://example.org/husband_and_wife"/>
+    <ns1:hasTheme rdf:resource="http://example.org/loyalty_to_a_leader"/>
+    <ns1:hasTheme rdf:resource="http://example.org/witchcraft"/>
+    <ns1:hasTheme rdf:resource="http://example.org/loyalty_to_a_friend"/>
+    <ns1:hasTheme rdf:resource="http://example.org/remorse"/>
+    <ns1:hasTheme rdf:resource="http://example.org/second_guessing_one_s_self"/>
+    <ns1:hasTheme rdf:resource="http://example.org/civil_war"/>
+    <ns1:hasTheme rdf:resource="http://example.org/the_desire_for_vengeance"/>
+    <ns1:hasTheme rdf:resource="http://example.org/destiny"/>
+    <ns1:hasTheme rdf:resource="http://example.org/becoming_a_harder_person"/>
+    <ns1:hasTheme rdf:resource="http://example.org/coping_with_the_death_of_one_s_entire_family"/>
+    <ns1:hasTheme rdf:resource="http://example.org/descent_into_madness"/>
+    <ns1:hasTheme rdf:resource="http://example.org/coping_with_the_death_of_a_spouse"/>
+    <ns1:hasTheme rdf:resource="http://example.org/what_if_I_had_to_fight_to_the_death"/>
+    <ns1:hasTheme rdf:resource="http://example.org/coping_with_the_death_of_a_child"/>
+    <ns1:hasTheme rdf:resource="http://example.org/suicide"/>
+    <ns1:themeType>choice</ns1:themeType>
+    <ns1:themeType>major</ns1:themeType>
+    <ns1:themeType>minor</ns1:themeType>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Man_and_Superman">
+    <ns1:hasTheme rdf:resource="http://example.org/female_sexuality"/>
+    <ns1:hasTheme rdf:resource="http://example.org/romantic_courtship"/>
+    <ns1:hasTheme rdf:resource="http://example.org/hominid_evolution"/>
+    <ns1:hasTheme rdf:resource="http://example.org/the_future_of_human_evolution"/>
+    <ns1:hasTheme rdf:resource="http://example.org/mother_and_daughter"/>
+    <ns1:hasTheme rdf:resource="http://example.org/father_and_daughter"/>
+    <ns1:hasTheme rdf:resource="http://example.org/coping_with_the_death_of_a_parent"/>
+    <ns1:hasTheme rdf:resource="http://example.org/female_independence"/>
+    <ns1:hasTheme rdf:resource="http://example.org/rivalry"/>
+    <ns1:themeType>major</ns1:themeType>
+    <ns1:themeType>minor</ns1:themeType>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/King_Lear">
+    <ns1:hasTheme rdf:resource="http://example.org/father_and_daughter"/>
+    <ns1:hasTheme rdf:resource="http://example.org/honesty"/>
+    <ns1:hasTheme rdf:resource="http://example.org/honest_character_vs__deceitful_character"/>
+    <ns1:hasTheme rdf:resource="http://example.org/family_dispute"/>
+    <ns1:hasTheme rdf:resource="http://example.org/handing_over_the_mantle_before_retirement"/>
+    <ns1:hasTheme rdf:resource="http://example.org/parental_disappointment_in_a_child"/>
+    <ns1:hasTheme rdf:resource="http://example.org/loyalty_to_one_s_family"/>
+    <ns1:hasTheme rdf:resource="http://example.org/loyalty_to_a_leader"/>
+    <ns1:hasTheme rdf:resource="http://example.org/sister_and_sister"/>
+    <ns1:hasTheme rdf:resource="http://example.org/fall_from_grace"/>
+    <ns1:hasTheme rdf:resource="http://example.org/cruelty"/>
+    <ns1:hasTheme rdf:resource="http://example.org/husband_and_wife"/>
+    <ns1:hasTheme rdf:resource="http://example.org/betrayal"/>
+    <ns1:hasTheme rdf:resource="http://example.org/coping_with_aging"/>
+    <ns1:hasTheme rdf:resource="http://example.org/master_and_servant"/>
+    <ns1:hasTheme rdf:resource="http://example.org/descent_into_madness"/>
+    <ns1:hasTheme rdf:resource="http://example.org/human_vs__the_elements__storm_"/>
+    <ns1:hasTheme rdf:resource="http://example.org/pleasure_in_the_misfortune_of_another"/>
+    <ns1:hasTheme rdf:resource="http://example.org/civil_war"/>
+    <ns1:hasTheme rdf:resource="http://example.org/war"/>
+    <ns1:hasTheme rdf:resource="http://example.org/blindness"/>
+    <ns1:hasTheme rdf:resource="http://example.org/treason"/>
+    <ns1:hasTheme rdf:resource="http://example.org/father_and_son"/>
+    <ns1:hasTheme rdf:resource="http://example.org/brother_and_brother"/>
+    <ns1:hasTheme rdf:resource="http://example.org/fratricide"/>
+    <ns1:hasTheme rdf:resource="http://example.org/coping_with_the_death_of_a_child"/>
+    <ns1:themeType>choice</ns1:themeType>
+    <ns1:themeType>major</ns1:themeType>
+    <ns1:themeType>minor</ns1:themeType>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/The_Devil_s_Disciple">
+    <ns1:hasTheme rdf:resource="http://example.org/the_human_capacity_for_good_and_evil"/>
+    <ns1:hasTheme rdf:resource="http://example.org/human_self_sacrifice_for_another"/>
+    <ns1:hasTheme rdf:resource="http://example.org/cowardice"/>
+    <ns1:hasTheme rdf:resource="http://example.org/courage"/>
+    <ns1:hasTheme rdf:resource="http://example.org/black_sheep"/>
+    <ns1:hasTheme rdf:resource="http://example.org/mother_and_son"/>
+    <ns1:hasTheme rdf:resource="http://example.org/husband_and_wife"/>
+    <ns1:hasTheme rdf:resource="http://example.org/love_triangle"/>
+    <ns1:hasTheme rdf:resource="http://example.org/what_it_is_like_in_a_legal_proceeding"/>
+    <ns1:hasTheme rdf:resource="http://example.org/legal_occupation"/>
+    <ns1:themeType>major</ns1:themeType>
+    <ns1:themeType>minor</ns1:themeType>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Arms_and_the_Man">
+    <ns1:hasTheme rdf:resource="http://example.org/the_senselessness_of_war"/>
+    <ns1:hasTheme rdf:resource="http://example.org/the_horrors_of_war"/>
+    <ns1:hasTheme rdf:resource="http://example.org/infatuation"/>
+    <ns1:hasTheme rdf:resource="http://example.org/love_triangle"/>
+    <ns1:hasTheme rdf:resource="http://example.org/engaged_couple"/>
+    <ns1:hasTheme rdf:resource="http://example.org/mother_and_daughter"/>
+    <ns1:hasTheme rdf:resource="http://example.org/husband_and_wife"/>
+    <ns1:hasTheme rdf:resource="http://example.org/father_and_daughter"/>
+    <ns1:hasTheme rdf:resource="http://example.org/rivalry"/>
+    <ns1:themeType>major</ns1:themeType>
+    <ns1:themeType>minor</ns1:themeType>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Antony_and_Cleopatra">
+    <ns1:hasTheme rdf:resource="http://example.org/star_crossed_lovers"/>
+    <ns1:hasTheme rdf:resource="http://example.org/obsessive_love"/>
+    <ns1:hasTheme rdf:resource="http://example.org/the_lust_for_power"/>
+    <ns1:hasTheme rdf:resource="http://example.org/courtly_intrigues"/>
+    <ns1:hasTheme rdf:resource="http://example.org/femme_fatale"/>
+    <ns1:hasTheme rdf:resource="http://example.org/suicide"/>
+    <ns1:hasTheme rdf:resource="http://example.org/betrayal"/>
+    <ns1:hasTheme rdf:resource="http://example.org/coping_with_the_death_of_a_spouse"/>
+    <ns1:hasTheme rdf:resource="http://example.org/love_vs__career"/>
+    <ns1:hasTheme rdf:resource="http://example.org/honorable_suicide"/>
+    <ns1:hasTheme rdf:resource="http://example.org/coping_with_the_death_of_a_lover"/>
+    <ns1:themeType>choice</ns1:themeType>
+    <ns1:themeType>major</ns1:themeType>
+    <ns1:themeType>minor</ns1:themeType>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Hamlet">
+    <ns1:hasTheme rdf:resource="http://example.org/regicide"/>
+    <ns1:hasTheme rdf:resource="http://example.org/the_desire_for_vengeance"/>
+    <ns1:hasTheme rdf:resource="http://example.org/courtly_intrigues"/>
+    <ns1:hasTheme rdf:resource="http://example.org/despair"/>
+    <ns1:hasTheme rdf:resource="http://example.org/the_lust_for_power"/>
+    <ns1:hasTheme rdf:resource="http://example.org/poison_murder"/>
+    <ns1:hasTheme rdf:resource="http://example.org/descent_into_madness"/>
+    <ns1:hasTheme rdf:resource="http://example.org/romantic_love"/>
+    <ns1:hasTheme rdf:resource="http://example.org/the_nature_of_death"/>
+    <ns1:hasTheme rdf:resource="http://example.org/decision_making_in_the_face_of_uncertainty"/>
+    <ns1:hasTheme rdf:resource="http://example.org/mother_and_son"/>
+    <ns1:hasTheme rdf:resource="http://example.org/father_and_son"/>
+    <ns1:hasTheme rdf:resource="http://example.org/coping_with_the_death_of_a_parent"/>
+    <ns1:hasTheme rdf:resource="http://example.org/the_desire_for_justice"/>
+    <ns1:hasTheme rdf:resource="http://example.org/acting"/>
+    <ns1:hasTheme rdf:resource="http://example.org/Oedipus_complex"/>
+    <ns1:hasTheme rdf:resource="http://example.org/fratricide"/>
+    <ns1:hasTheme rdf:resource="http://example.org/husband_and_wife"/>
+    <ns1:hasTheme rdf:resource="http://example.org/ghost"/>
+    <ns1:hasTheme rdf:resource="http://example.org/contemplating_suicide"/>
+    <ns1:hasTheme rdf:resource="http://example.org/stepfather_and_stepson"/>
+    <ns1:hasTheme rdf:resource="http://example.org/war"/>
+    <ns1:hasTheme rdf:resource="http://example.org/friendship"/>
+    <ns1:hasTheme rdf:resource="http://example.org/coping_with_the_death_of_a_family_member"/>
+    <ns1:hasTheme rdf:resource="http://example.org/suicide_in_society"/>
+    <ns1:hasTheme rdf:resource="http://example.org/what_if_I_had_to_fight_to_the_death"/>
+    <ns1:themeType>choice</ns1:themeType>
+    <ns1:themeType>major</ns1:themeType>
+    <ns1:themeType>minor</ns1:themeType>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Love_s_Labour_s_Lost">
+    <ns1:hasTheme rdf:resource="http://example.org/chastity"/>
+    <ns1:hasTheme rdf:resource="http://example.org/promiscuity"/>
+    <ns1:hasTheme rdf:resource="http://example.org/forbidden_love"/>
+    <ns1:hasTheme rdf:resource="http://example.org/obsessive_love"/>
+    <ns1:hasTheme rdf:resource="http://example.org/infatuation"/>
+    <ns1:hasTheme rdf:resource="http://example.org/poetry"/>
+    <ns1:themeType>major</ns1:themeType>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Othello">
+    <ns1:hasTheme rdf:resource="http://example.org/first_published_in_1565_"/>
+    <ns1:hasTheme rdf:resource="http://example.org/jealousy"/>
+    <ns1:hasTheme rdf:resource="http://example.org/the_desire_for_vengeance"/>
+    <ns1:hasTheme rdf:resource="http://example.org/extramarital_affair"/>
+    <ns1:hasTheme rdf:resource="http://example.org/love_triangle"/>
+    <ns1:hasTheme rdf:resource="http://example.org/husband_and_wife"/>
+    <ns1:hasTheme rdf:resource="http://example.org/romantic_love"/>
+    <ns1:hasTheme rdf:resource="http://example.org/friendship"/>
+    <ns1:hasTheme rdf:resource="http://example.org/betrayal"/>
+    <ns1:hasTheme rdf:resource="http://example.org/murder"/>
+    <ns1:hasTheme rdf:resource="http://example.org/spouse_murder"/>
+    <ns1:hasTheme rdf:resource="http://example.org/suicide"/>
+    <ns1:hasTheme rdf:resource="http://example.org/remorse"/>
+    <ns1:hasTheme rdf:resource="http://example.org/coping_with_having_injured_someone"/>
+    <ns1:hasTheme rdf:resource="http://example.org/romantic_jealousy"/>
+    <ns1:hasTheme rdf:resource="http://example.org/the_desire_for_professional_success"/>
+    <ns1:hasTheme rdf:resource="http://example.org/workplace_rivalry"/>
+    <ns1:hasTheme rdf:resource="http://example.org/false_friend"/>
+    <ns1:hasTheme rdf:resource="http://example.org/unrequited_love"/>
+    <ns1:hasTheme rdf:resource="http://example.org/coping_with_having_a_bad_reputation"/>
+    <ns1:hasTheme rdf:resource="http://example.org/father_and_daughter"/>
+    <ns1:hasTheme rdf:resource="http://example.org/racism_in_society"/>
+    <ns1:hasTheme rdf:resource="http://example.org/ignorance_is_bliss"/>
+    <ns1:hasTheme rdf:resource="http://example.org/honesty"/>
+    <ns1:hasTheme rdf:resource="http://example.org/facing_death"/>
+    <ns1:themeType>minor</ns1:themeType>
+    <ns1:themeType>choice</ns1:themeType>
+    <ns1:themeType>major</ns1:themeType>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Misalliance">
+    <ns1:hasTheme rdf:resource="http://example.org/human_sexuality"/>
+    <ns1:hasTheme rdf:resource="http://example.org/female_sexuality"/>
+    <ns1:hasTheme rdf:resource="http://example.org/romantic_courtship"/>
+    <ns1:hasTheme rdf:resource="http://example.org/the_nature_of_love"/>
+    <ns1:hasTheme rdf:resource="http://example.org/engaged_couple"/>
+    <ns1:hasTheme rdf:resource="http://example.org/father_and_daughter"/>
+    <ns1:hasTheme rdf:resource="http://example.org/young_and_old_romance"/>
+    <ns1:hasTheme rdf:resource="http://example.org/love_triangle"/>
+    <ns1:hasTheme rdf:resource="http://example.org/infatuation"/>
+    <ns1:hasTheme rdf:resource="http://example.org/the_desire_for_vengeance"/>
+    <ns1:hasTheme rdf:resource="http://example.org/mother_and_son"/>
+    <ns1:hasTheme rdf:resource="http://example.org/husband_and_wife"/>
+    <ns1:themeType>major</ns1:themeType>
+    <ns1:themeType>minor</ns1:themeType>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/The_Merchant_of_Venice">
+    <ns1:hasTheme rdf:resource="http://example.org/the_desire_for_vengeance"/>
+    <ns1:hasTheme rdf:resource="http://example.org/mercy"/>
+    <ns1:hasTheme rdf:resource="http://example.org/mercy_vs__justice"/>
+    <ns1:hasTheme rdf:resource="http://example.org/antisemitism_in_society"/>
+    <ns1:hasTheme rdf:resource="http://example.org/facing_loan_sharks"/>
+    <ns1:hasTheme rdf:resource="http://example.org/facing_financial_ruin"/>
+    <ns1:hasTheme rdf:resource="http://example.org/father_and_daughter"/>
+    <ns1:hasTheme rdf:resource="http://example.org/romantic_love"/>
+    <ns1:hasTheme rdf:resource="http://example.org/ruthlessness"/>
+    <ns1:hasTheme rdf:resource="http://example.org/sacrifice_for_a_friend"/>
+    <ns1:hasTheme rdf:resource="http://example.org/homosexuality_in_society"/>
+    <ns1:hasTheme rdf:resource="http://example.org/Christianity"/>
+    <ns1:hasTheme rdf:resource="http://example.org/Judaism"/>
+    <ns1:hasTheme rdf:resource="http://example.org/unrequited_love"/>
+    <ns1:hasTheme rdf:resource="http://example.org/test_of_love"/>
+    <ns1:hasTheme rdf:resource="http://example.org/love_is_blind"/>
+    <ns1:themeType>choice</ns1:themeType>
+    <ns1:themeType>major</ns1:themeType>
+    <ns1:themeType>minor</ns1:themeType>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/All_s_Well_That_Ends_Well">
+    <ns1:hasTheme rdf:resource="http://example.org/unrequited_love"/>
+    <ns1:hasTheme rdf:resource="http://example.org/attitude_of_superiority"/>
+    <ns1:hasTheme rdf:resource="http://example.org/the_desire_for_glory_in_battle"/>
+    <ns1:hasTheme rdf:resource="http://example.org/male_lasciviousness"/>
+    <ns1:hasTheme rdf:resource="http://example.org/honor"/>
+    <ns1:hasTheme rdf:resource="http://example.org/cowardice"/>
+    <ns1:hasTheme rdf:resource="http://example.org/husband_and_wife"/>
+    <ns1:hasTheme rdf:resource="http://example.org/be_careful_what_you_wish_for"/>
+    <ns1:hasTheme rdf:resource="http://example.org/courtly_intrigues"/>
+    <ns1:hasTheme rdf:resource="http://example.org/taking_a_high_stakes_wager_vs__walking_away"/>
+    <ns1:hasTheme rdf:resource="http://example.org/medical_occupation"/>
+    <ns1:hasTheme rdf:resource="http://example.org/love_triangle"/>
+    <ns1:hasTheme rdf:resource="http://example.org/mother_and_son"/>
+    <ns1:hasTheme rdf:resource="http://example.org/coping_with_being_ill_and_indisposed"/>
+    <ns1:hasTheme rdf:resource="http://example.org/fall_from_grace"/>
+    <ns1:themeType>choice</ns1:themeType>
+    <ns1:themeType>major</ns1:themeType>
+    <ns1:themeType>minor</ns1:themeType>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Pygmalion">
+    <ns1:hasTheme rdf:resource="http://example.org/sociolinguistics"/>
+    <ns1:hasTheme rdf:resource="http://example.org/rise_to_prominence_from_humble_beginnings"/>
+    <ns1:hasTheme rdf:resource="http://example.org/manners"/>
+    <ns1:hasTheme rdf:resource="http://example.org/social_inequality"/>
+    <ns1:hasTheme rdf:resource="http://example.org/character_metamorphosis"/>
+    <ns1:hasTheme rdf:resource="http://example.org/man_vs__woman"/>
+    <ns1:hasTheme rdf:resource="http://example.org/what_it_is_like_to_be_different"/>
+    <ns1:hasTheme rdf:resource="http://example.org/table_manners"/>
+    <ns1:hasTheme rdf:resource="http://example.org/romantic_relationship"/>
+    <ns1:hasTheme rdf:resource="http://example.org/husband_and_wife"/>
+    <ns1:hasTheme rdf:resource="http://example.org/learning_languages"/>
+    <ns1:themeType>major</ns1:themeType>
+    <ns1:themeType>minor</ns1:themeType>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/The_Taming_of_the_Shrew">
+    <ns1:hasTheme rdf:resource="http://example.org/gold_digging"/>
+    <ns1:hasTheme rdf:resource="http://example.org/shrew_character"/>
+    <ns1:hasTheme rdf:resource="http://example.org/husband_and_wife"/>
+    <ns1:hasTheme rdf:resource="http://example.org/getting_a_taste_of_one_s_own_medicine"/>
+    <ns1:hasTheme rdf:resource="http://example.org/infatuation"/>
+    <ns1:hasTheme rdf:resource="http://example.org/coping_with_a_spoiled_brat"/>
+    <ns1:hasTheme rdf:resource="http://example.org/man_vs__woman"/>
+    <ns1:hasTheme rdf:resource="http://example.org/father_and_daughter"/>
+    <ns1:hasTheme rdf:resource="http://example.org/sister_and_sister"/>
+    <ns1:hasTheme rdf:resource="http://example.org/master_and_servant"/>
+    <ns1:hasTheme rdf:resource="http://example.org/female_female_rivalry"/>
+    <ns1:themeType>choice</ns1:themeType>
+    <ns1:themeType>major</ns1:themeType>
+    <ns1:themeType>minor</ns1:themeType>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Mrs__Warren_s_Profession">
+    <ns1:hasTheme rdf:resource="http://example.org/mother_and_daughter"/>
+    <ns1:hasTheme rdf:resource="http://example.org/female_independence"/>
+    <ns1:hasTheme rdf:resource="http://example.org/prostitution_vs__poverty"/>
+    <ns1:hasTheme rdf:resource="http://example.org/sex_trade_in_society"/>
+    <ns1:hasTheme rdf:resource="http://example.org/female_empowerment"/>
+    <ns1:hasTheme rdf:resource="http://example.org/boyfriend_and_girlfriend"/>
+    <ns1:hasTheme rdf:resource="http://example.org/prostitution"/>
+    <ns1:hasTheme rdf:resource="http://example.org/young_and_old_romance"/>
+    <ns1:hasTheme rdf:resource="http://example.org/unrequited_love"/>
+    <ns1:hasTheme rdf:resource="http://example.org/sacrifice_for_a_loved_one"/>
+    <ns1:themeType>major</ns1:themeType>
+    <ns1:themeType>minor</ns1:themeType>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Major_Barbara">
+    <ns1:hasTheme rdf:resource="http://example.org/arms_trade"/>
+    <ns1:hasTheme rdf:resource="http://example.org/realist_vs__idealist"/>
+    <ns1:hasTheme rdf:resource="http://example.org/inheritance_fight"/>
+    <ns1:hasTheme rdf:resource="http://example.org/husband_and_wife"/>
+    <ns1:hasTheme rdf:resource="http://example.org/mother_and_son"/>
+    <ns1:hasTheme rdf:resource="http://example.org/father_and_son"/>
+    <ns1:hasTheme rdf:resource="http://example.org/father_and_daughter"/>
+    <ns1:hasTheme rdf:resource="http://example.org/mother_and_daughter"/>
+    <ns1:hasTheme rdf:resource="http://example.org/the_senselessness_of_war"/>
+    <ns1:hasTheme rdf:resource="http://example.org/the_horrors_of_war"/>
+    <ns1:themeType>major</ns1:themeType>
+    <ns1:themeType>minor</ns1:themeType>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/A_Midsummer_Night_s_Dream">
+    <ns1:hasTheme rdf:resource="http://example.org/romantic_love"/>
+    <ns1:hasTheme rdf:resource="http://example.org/unrequited_love"/>
+    <ns1:hasTheme rdf:resource="http://example.org/love_triangle"/>
+    <ns1:hasTheme rdf:resource="http://example.org/obsessive_love"/>
+    <ns1:hasTheme rdf:resource="http://example.org/Ancient_Greek_mythology"/>
+    <ns1:hasTheme rdf:resource="http://example.org/the_nature_of_love"/>
+    <ns1:hasTheme rdf:resource="http://example.org/father_and_daughter"/>
+    <ns1:hasTheme rdf:resource="http://example.org/running_away_from_home"/>
+    <ns1:hasTheme rdf:resource="http://example.org/the_theater"/>
+    <ns1:hasTheme rdf:resource="http://example.org/acting"/>
+    <ns1:hasTheme rdf:resource="http://example.org/mother_and_son"/>
+    <ns1:hasTheme rdf:resource="http://example.org/choosing_between_love_and_family"/>
+    <ns1:hasTheme rdf:resource="http://example.org/master_and_servant"/>
+    <ns1:themeType>choice</ns1:themeType>
+    <ns1:themeType>major</ns1:themeType>
+    <ns1:themeType>minor</ns1:themeType>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Much_Ado_About_Nothing">
+    <ns1:hasTheme rdf:resource="http://example.org/romantic_love"/>
+    <ns1:hasTheme rdf:resource="http://example.org/love_hate_relationship"/>
+    <ns1:hasTheme rdf:resource="http://example.org/infatuation"/>
+    <ns1:hasTheme rdf:resource="http://example.org/sexual_norms_in_society"/>
+    <ns1:hasTheme rdf:resource="http://example.org/father_and_daughter"/>
+    <ns1:hasTheme rdf:resource="http://example.org/engaged_couple"/>
+    <ns1:hasTheme rdf:resource="http://example.org/friendship"/>
+    <ns1:hasTheme rdf:resource="http://example.org/romantic_infidelity"/>
+    <ns1:hasTheme rdf:resource="http://example.org/religious_occupation"/>
+    <ns1:hasTheme rdf:resource="http://example.org/coping_with_the_death_of_a_lover"/>
+    <ns1:hasTheme rdf:resource="http://example.org/brother_and_brother"/>
+    <ns1:hasTheme rdf:resource="http://example.org/uncle_and_niece"/>
+    <ns1:hasTheme rdf:resource="http://example.org/law_enforcement"/>
+    <ns1:themeType>choice</ns1:themeType>
+    <ns1:themeType>major</ns1:themeType>
+    <ns1:themeType>minor</ns1:themeType>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/The_Self_Tormentor">
+    <ns1:hasTheme rdf:resource="http://example.org/father_and_son"/>
+    <ns1:hasTheme rdf:resource="http://example.org/neighbor_and_neighbor"/>
+    <ns1:hasTheme rdf:resource="http://example.org/friendship"/>
+    <ns1:hasTheme rdf:resource="http://example.org/infatuation"/>
+    <ns1:hasTheme rdf:resource="http://example.org/beating_one_s_self_up"/>
+    <ns1:hasTheme rdf:resource="http://example.org/fatherly_disappointment_in_a_son"/>
+    <ns1:hasTheme rdf:resource="http://example.org/remorse"/>
+    <ns1:hasTheme rdf:resource="http://example.org/reconciliation"/>
+    <ns1:hasTheme rdf:resource="http://example.org/con_artistry"/>
+    <ns1:hasTheme rdf:resource="http://example.org/master_and_slave"/>
+    <ns1:hasTheme rdf:resource="http://example.org/disapproving_parent"/>
+    <ns1:hasTheme rdf:resource="http://example.org/female_stereotype"/>
+    <ns1:hasTheme rdf:resource="http://example.org/miserliness"/>
+    <ns1:hasTheme rdf:resource="http://example.org/husband_and_wife"/>
+    <ns1:hasTheme rdf:resource="http://example.org/infanticide"/>
+    <ns1:hasTheme rdf:resource="http://example.org/mother_and_son"/>
+    <ns1:hasTheme rdf:resource="http://example.org/unknown_parent"/>
+    <ns1:hasTheme rdf:resource="http://example.org/brother_and_sister"/>
+    <ns1:hasTheme rdf:resource="http://example.org/creative_writing"/>
+    <ns1:hasTheme rdf:resource="http://example.org/gold_digging"/>
+    <ns1:hasTheme rdf:resource="http://example.org/arranged_marriage"/>
+    <ns1:hasTheme rdf:resource="http://example.org/getting_a_taste_of_one_s_own_medicine"/>
+    <ns1:hasTheme rdf:resource="http://example.org/hypocritical_character"/>
+    <ns1:themeType>choice</ns1:themeType>
+    <ns1:themeType>major</ns1:themeType>
+    <ns1:themeType>minor</ns1:themeType>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Richard_III">
+    <ns1:hasTheme rdf:resource="http://example.org/the_lust_for_power"/>
+    <ns1:hasTheme rdf:resource="http://example.org/courtly_intrigues"/>
+    <ns1:hasTheme rdf:resource="http://example.org/treason"/>
+    <ns1:hasTheme rdf:resource="http://example.org/coping_with_being_disfigured"/>
+    <ns1:hasTheme rdf:resource="http://example.org/parricide"/>
+    <ns1:hasTheme rdf:resource="http://example.org/betrayal"/>
+    <ns1:hasTheme rdf:resource="http://example.org/divine_retribution"/>
+    <ns1:hasTheme rdf:resource="http://example.org/humility"/>
+    <ns1:hasTheme rdf:resource="http://example.org/civil_war"/>
+    <ns1:hasTheme rdf:resource="http://example.org/facing_an_extraordinary_accusation"/>
+    <ns1:hasTheme rdf:resource="http://example.org/coping_with_the_death_of_a_spouse"/>
+    <ns1:hasTheme rdf:resource="http://example.org/coping_with_unwelcome_romantic_attention"/>
+    <ns1:hasTheme rdf:resource="http://example.org/coping_with_the_death_of_a_child"/>
+    <ns1:hasTheme rdf:resource="http://example.org/resentment"/>
+    <ns1:hasTheme rdf:resource="http://example.org/wrestling_with_one_s_conscience"/>
+    <ns1:hasTheme rdf:resource="http://example.org/coping_with_the_death_of_a_family_member"/>
+    <ns1:hasTheme rdf:resource="http://example.org/sacred_sanctuary"/>
+    <ns1:hasTheme rdf:resource="http://example.org/fratricide"/>
+    <ns1:hasTheme rdf:resource="http://example.org/spouse_murder"/>
+    <ns1:hasTheme rdf:resource="http://example.org/being_bitter_about_one_s_life"/>
+    <ns1:hasTheme rdf:resource="http://example.org/mother_and_son"/>
+    <ns1:hasTheme rdf:resource="http://example.org/motherly_disappointment_in_a_son"/>
+    <ns1:hasTheme rdf:resource="http://example.org/sacrifice_for_a_loved_one"/>
+    <ns1:hasTheme rdf:resource="http://example.org/acute_anxiety"/>
+    <ns1:hasTheme rdf:resource="http://example.org/uncle_and_nephew"/>
+    <ns1:hasTheme rdf:resource="http://example.org/the_horrors_of_war"/>
+    <ns1:themeType>choice</ns1:themeType>
+    <ns1:themeType>major</ns1:themeType>
+    <ns1:themeType>minor</ns1:themeType>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Romeo_and_Juliet">
+    <ns1:hasTheme rdf:resource="http://example.org/star_crossed_lovers"/>
+    <ns1:hasTheme rdf:resource="http://example.org/young_lovers"/>
+    <ns1:hasTheme rdf:resource="http://example.org/choosing_between_love_and_family"/>
+    <ns1:hasTheme rdf:resource="http://example.org/coping_with_the_death_of_a_lover"/>
+    <ns1:hasTheme rdf:resource="http://example.org/vendetta"/>
+    <ns1:hasTheme rdf:resource="http://example.org/the_human_capacity_for_good_and_evil"/>
+    <ns1:hasTheme rdf:resource="http://example.org/ironic_twist_of_fate"/>
+    <ns1:hasTheme rdf:resource="http://example.org/the_desire_for_vengeance"/>
+    <ns1:hasTheme rdf:resource="http://example.org/suicide"/>
+    <ns1:hasTheme rdf:resource="http://example.org/love_conquers_all"/>
+    <ns1:hasTheme rdf:resource="http://example.org/mother_and_daughter"/>
+    <ns1:hasTheme rdf:resource="http://example.org/friendship"/>
+    <ns1:hasTheme rdf:resource="http://example.org/love_at_first_sight"/>
+    <ns1:hasTheme rdf:resource="http://example.org/religious_occupation"/>
+    <ns1:hasTheme rdf:resource="http://example.org/master_and_servant"/>
+    <ns1:hasTheme rdf:resource="http://example.org/marriage_ceremony"/>
+    <ns1:hasTheme rdf:resource="http://example.org/coping_with_having_injured_someone"/>
+    <ns1:hasTheme rdf:resource="http://example.org/disapproving_parent"/>
+    <ns1:hasTheme rdf:resource="http://example.org/arranged_marriage"/>
+    <ns1:hasTheme rdf:resource="http://example.org/husband_and_wife"/>
+    <ns1:hasTheme rdf:resource="http://example.org/father_and_daughter"/>
+    <ns1:hasTheme rdf:resource="http://example.org/coping_with_the_death_of_a_child"/>
+    <ns1:hasTheme rdf:resource="http://example.org/breaking_the_law_for_personal_advantage"/>
+    <ns1:hasTheme rdf:resource="http://example.org/reconciliation"/>
+    <ns1:themeType>choice</ns1:themeType>
+    <ns1:themeType>major</ns1:themeType>
+    <ns1:themeType>minor</ns1:themeType>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/The_Tempest">
+    <ns1:hasTheme rdf:resource="http://example.org/treason"/>
+    <ns1:hasTheme rdf:resource="http://example.org/father_and_daughter"/>
+    <ns1:hasTheme rdf:resource="http://example.org/master_and_servant"/>
+    <ns1:hasTheme rdf:resource="http://example.org/the_theater"/>
+    <ns1:hasTheme rdf:resource="http://example.org/magic_powers"/>
+    <ns1:hasTheme rdf:resource="http://example.org/infatuation"/>
+    <ns1:hasTheme rdf:resource="http://example.org/the_desire_for_vengeance"/>
+    <ns1:hasTheme rdf:resource="http://example.org/loyalty_to_a_leader"/>
+    <ns1:hasTheme rdf:resource="http://example.org/poverty_in_society"/>
+    <ns1:hasTheme rdf:resource="http://example.org/folk_belief"/>
+    <ns1:themeType>choice</ns1:themeType>
+    <ns1:themeType>major</ns1:themeType>
+    <ns1:themeType>minor</ns1:themeType>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Phormio">
+    <ns1:hasTheme rdf:resource="http://example.org/infatuation"/>
+    <ns1:hasTheme rdf:resource="http://example.org/con_artistry"/>
+    <ns1:hasTheme rdf:resource="http://example.org/master_and_slave"/>
+    <ns1:hasTheme rdf:resource="http://example.org/brother_and_brother"/>
+    <ns1:hasTheme rdf:resource="http://example.org/father_and_son"/>
+    <ns1:hasTheme rdf:resource="http://example.org/uncle_and_nephew"/>
+    <ns1:hasTheme rdf:resource="http://example.org/husband_and_wife"/>
+    <ns1:hasTheme rdf:resource="http://example.org/mother_and_son"/>
+    <ns1:hasTheme rdf:resource="http://example.org/family_dispute"/>
+    <ns1:hasTheme rdf:resource="http://example.org/extramarital_affair"/>
+    <ns1:hasTheme rdf:resource="http://example.org/coping_with_the_death_of_a_parent"/>
+    <ns1:hasTheme rdf:resource="http://example.org/fatherly_disappointment_in_a_son"/>
+    <ns1:hasTheme rdf:resource="http://example.org/arranged_marriage"/>
+    <ns1:hasTheme rdf:resource="http://example.org/legal_occupation"/>
+    <ns1:hasTheme rdf:resource="http://example.org/omens"/>
+    <ns1:hasTheme rdf:resource="http://example.org/price_inflation_in_society"/>
+    <ns1:hasTheme rdf:resource="http://example.org/hypocritical_character"/>
+    <ns1:hasTheme rdf:resource="http://example.org/social_dysfunction"/>
+    <ns1:hasTheme rdf:resource="http://example.org/slavery"/>
+    <ns1:hasTheme rdf:resource="http://example.org/greed_for_riches"/>
+    <ns1:hasTheme rdf:resource="http://example.org/divination"/>
+    <ns1:hasTheme rdf:resource="http://example.org/orphanhood"/>
+    <ns1:hasTheme rdf:resource="http://example.org/blackmail"/>
+    <ns1:themeType>choice</ns1:themeType>
+    <ns1:themeType>major</ns1:themeType>
+    <ns1:themeType>minor</ns1:themeType>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Titus_Andronicus">
+    <ns1:hasTheme rdf:resource="http://example.org/the_desire_for_vengeance"/>
+    <ns1:hasTheme rdf:resource="http://example.org/vendetta"/>
+    <ns1:hasTheme rdf:resource="http://example.org/hate_begets_hate"/>
+    <ns1:hasTheme rdf:resource="http://example.org/sexual_assault"/>
+    <ns1:hasTheme rdf:resource="http://example.org/murder"/>
+    <ns1:hasTheme rdf:resource="http://example.org/coping_with_the_death_of_a_child"/>
+    <ns1:hasTheme rdf:resource="http://example.org/extramarital_affair"/>
+    <ns1:hasTheme rdf:resource="http://example.org/the_instinct_for_violence"/>
+    <ns1:hasTheme rdf:resource="http://example.org/anarchy"/>
+    <ns1:hasTheme rdf:resource="http://example.org/father_and_son"/>
+    <ns1:hasTheme rdf:resource="http://example.org/father_and_daughter"/>
+    <ns1:hasTheme rdf:resource="http://example.org/mother_and_daughter"/>
+    <ns1:hasTheme rdf:resource="http://example.org/brother_and_brother"/>
+    <ns1:hasTheme rdf:resource="http://example.org/descent_into_madness"/>
+    <ns1:hasTheme rdf:resource="http://example.org/coping_with_having_been_raped"/>
+    <ns1:hasTheme rdf:resource="http://example.org/sadism"/>
+    <ns1:hasTheme rdf:resource="http://example.org/Ancient_Roman_mythology"/>
+    <ns1:hasTheme rdf:resource="http://example.org/coping_with_having_injured_someone"/>
+    <ns1:hasTheme rdf:resource="http://example.org/what_if_I_were_being_framed_for_a_crime"/>
+    <ns1:hasTheme rdf:resource="http://example.org/brother_and_sister"/>
+    <ns1:hasTheme rdf:resource="http://example.org/grandfather_and_grandson"/>
+    <ns1:hasTheme rdf:resource="http://example.org/uncle_and_nephew"/>
+    <ns1:hasTheme rdf:resource="http://example.org/coping_with_the_death_of_a_parent"/>
+    <ns1:hasTheme rdf:resource="http://example.org/racism_in_society"/>
+    <ns1:hasTheme rdf:resource="http://example.org/paternal_love"/>
+    <ns1:hasTheme rdf:resource="http://example.org/choosing_whether_to_kill_someone_to_spare_them_suffering"/>
+    <ns1:themeType>choice</ns1:themeType>
+    <ns1:themeType>major</ns1:themeType>
+    <ns1:themeType>minor</ns1:themeType>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Cymbeline">
+    <ns1:hasTheme rdf:resource="http://example.org/husband_and_wife"/>
+    <ns1:hasTheme rdf:resource="http://example.org/love_triangle"/>
+    <ns1:hasTheme rdf:resource="http://example.org/the_lust_for_power"/>
+    <ns1:hasTheme rdf:resource="http://example.org/courtly_intrigues"/>
+    <ns1:hasTheme rdf:resource="http://example.org/extramarital_affair"/>
+    <ns1:hasTheme rdf:resource="http://example.org/long_distance_relationship"/>
+    <ns1:hasTheme rdf:resource="http://example.org/choosing_between_conflicting_loyalties"/>
+    <ns1:hasTheme rdf:resource="http://example.org/romantic_jealousy"/>
+    <ns1:hasTheme rdf:resource="http://example.org/poison_murder"/>
+    <ns1:hasTheme rdf:resource="http://example.org/test_of_love"/>
+    <ns1:hasTheme rdf:resource="http://example.org/stepmother_and_stepdaughter"/>
+    <ns1:hasTheme rdf:resource="http://example.org/father_and_daughter"/>
+    <ns1:hasTheme rdf:resource="http://example.org/master_and_servant"/>
+    <ns1:hasTheme rdf:resource="http://example.org/the_battle_of_the_sexes"/>
+    <ns1:hasTheme rdf:resource="http://example.org/regicide"/>
+    <ns1:hasTheme rdf:resource="http://example.org/spouse_murder"/>
+    <ns1:hasTheme rdf:resource="http://example.org/war"/>
+    <ns1:hasTheme rdf:resource="http://example.org/gender_bending"/>
+    <ns1:hasTheme rdf:resource="http://example.org/brother_and_brother"/>
+    <ns1:themeType>major</ns1:themeType>
+    <ns1:themeType>minor</ns1:themeType>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Coriolanus">
+    <ns1:hasTheme rdf:resource="http://example.org/heroism"/>
+    <ns1:hasTheme rdf:resource="http://example.org/pride"/>
+    <ns1:hasTheme rdf:resource="http://example.org/the_need_to_maintain_an_image"/>
+    <ns1:hasTheme rdf:resource="http://example.org/courtly_intrigues"/>
+    <ns1:hasTheme rdf:resource="http://example.org/attitude_of_superiority"/>
+    <ns1:hasTheme rdf:resource="http://example.org/contraposed_political_ideologies"/>
+    <ns1:hasTheme rdf:resource="http://example.org/the_desire_for_vengeance"/>
+    <ns1:hasTheme rdf:resource="http://example.org/mother_and_son"/>
+    <ns1:hasTheme rdf:resource="http://example.org/betrayal"/>
+    <ns1:hasTheme rdf:resource="http://example.org/treason"/>
+    <ns1:hasTheme rdf:resource="http://example.org/rich_character_vs__poor_character"/>
+    <ns1:hasTheme rdf:resource="http://example.org/hatred"/>
+    <ns1:hasTheme rdf:resource="http://example.org/facing_a_mortal_enemy"/>
+    <ns1:hasTheme rdf:resource="http://example.org/husband_and_wife"/>
+    <ns1:hasTheme rdf:resource="http://example.org/father_and_son"/>
+    <ns1:hasTheme rdf:resource="http://example.org/humility"/>
+    <ns1:themeType>choice</ns1:themeType>
+    <ns1:themeType>major</ns1:themeType>
+    <ns1:themeType>minor</ns1:themeType>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/The_Winter_s_Tale">
+    <ns1:hasTheme rdf:resource="http://example.org/mistrust"/>
+    <ns1:hasTheme rdf:resource="http://example.org/romantic_love"/>
+    <ns1:hasTheme rdf:resource="http://example.org/husband_and_wife"/>
+    <ns1:hasTheme rdf:resource="http://example.org/romantic_jealousy"/>
+    <ns1:hasTheme rdf:resource="http://example.org/what_if_I_was_accused_of_a_crime_that_I_didn_t_commit"/>
+    <ns1:hasTheme rdf:resource="http://example.org/romantic_infidelity"/>
+    <ns1:hasTheme rdf:resource="http://example.org/crime"/>
+    <ns1:hasTheme rdf:resource="http://example.org/father_and_son"/>
+    <ns1:hasTheme rdf:resource="http://example.org/friendship"/>
+    <ns1:hasTheme rdf:resource="http://example.org/reunion_with_a_loved_one"/>
+    <ns1:hasTheme rdf:resource="http://example.org/engaged_couple"/>
+    <ns1:hasTheme rdf:resource="http://example.org/remorse"/>
+    <ns1:hasTheme rdf:resource="http://example.org/reconciliation"/>
+    <ns1:hasTheme rdf:resource="http://example.org/to_kill_or_to_spare"/>
+    <ns1:hasTheme rdf:resource="http://example.org/infanticide"/>
+    <ns1:hasTheme rdf:resource="http://example.org/what_it_is_like_in_a_legal_proceeding"/>
+    <ns1:hasTheme rdf:resource="http://example.org/religious_prophesy"/>
+    <ns1:hasTheme rdf:resource="http://example.org/theft"/>
+    <ns1:hasTheme rdf:resource="http://example.org/fatherly_disappointment_in_a_son"/>
+    <ns1:hasTheme rdf:resource="http://example.org/anthropomorphic_object_come_to_life"/>
+    <ns1:themeType>choice</ns1:themeType>
+    <ns1:themeType>major</ns1:themeType>
+    <ns1:themeType>minor</ns1:themeType>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/King_John">
+    <ns1:hasTheme rdf:resource="http://example.org/war_of_succession"/>
+    <ns1:hasTheme rdf:resource="http://example.org/war"/>
+    <ns1:hasTheme rdf:resource="http://example.org/uncle_and_nephew"/>
+    <ns1:hasTheme rdf:resource="http://example.org/mother_and_son"/>
+    <ns1:hasTheme rdf:resource="http://example.org/pride"/>
+    <ns1:hasTheme rdf:resource="http://example.org/the_need_to_know_one_s_roots"/>
+    <ns1:hasTheme rdf:resource="http://example.org/choosing_between_conflicting_loyalties"/>
+    <ns1:hasTheme rdf:resource="http://example.org/duty_vs__compassion"/>
+    <ns1:hasTheme rdf:resource="http://example.org/murder"/>
+    <ns1:hasTheme rdf:resource="http://example.org/remorse"/>
+    <ns1:hasTheme rdf:resource="http://example.org/suicide"/>
+    <ns1:themeType>choice</ns1:themeType>
+    <ns1:themeType>major</ns1:themeType>
+    <ns1:themeType>minor</ns1:themeType>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/The_Girl_from_Andros">
+    <ns1:hasTheme rdf:resource="http://example.org/father_and_son"/>
+    <ns1:hasTheme rdf:resource="http://example.org/fatherly_disappointment_in_a_son"/>
+    <ns1:hasTheme rdf:resource="http://example.org/infatuation"/>
+    <ns1:hasTheme rdf:resource="http://example.org/master_and_slave"/>
+    <ns1:hasTheme rdf:resource="http://example.org/choosing_between_love_and_family"/>
+    <ns1:hasTheme rdf:resource="http://example.org/arranged_marriage"/>
+    <ns1:hasTheme rdf:resource="http://example.org/friendship"/>
+    <ns1:hasTheme rdf:resource="http://example.org/love_vs__friendship"/>
+    <ns1:hasTheme rdf:resource="http://example.org/father_and_daughter"/>
+    <ns1:hasTheme rdf:resource="http://example.org/promiscuity"/>
+    <ns1:hasTheme rdf:resource="http://example.org/lovers__quarrel"/>
+    <ns1:hasTheme rdf:resource="http://example.org/keeping_secrets"/>
+    <ns1:hasTheme rdf:resource="http://example.org/miserliness"/>
+    <ns1:hasTheme rdf:resource="http://example.org/mimetic_desire"/>
+    <ns1:hasTheme rdf:resource="http://example.org/moderation_in_all_things"/>
+    <ns1:hasTheme rdf:resource="http://example.org/prejudicial_attitude_of_superiority_against_someone_less_well_off_than_one_s_self"/>
+    <ns1:themeType>choice</ns1:themeType>
+    <ns1:themeType>major</ns1:themeType>
+    <ns1:themeType>minor</ns1:themeType>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/As_You_Like_It">
+    <ns1:hasTheme rdf:resource="http://example.org/romantic_love"/>
+    <ns1:hasTheme rdf:resource="http://example.org/the_battle_of_the_sexes"/>
+    <ns1:hasTheme rdf:resource="http://example.org/friendship"/>
+    <ns1:hasTheme rdf:resource="http://example.org/infatuation"/>
+    <ns1:hasTheme rdf:resource="http://example.org/love_triangle"/>
+    <ns1:hasTheme rdf:resource="http://example.org/gender_bending"/>
+    <ns1:hasTheme rdf:resource="http://example.org/love_at_first_sight"/>
+    <ns1:hasTheme rdf:resource="http://example.org/childhood_as_an_outsider"/>
+    <ns1:hasTheme rdf:resource="http://example.org/facing_being_evicted_from_one_s_home"/>
+    <ns1:hasTheme rdf:resource="http://example.org/rich_character_vs__poor_character"/>
+    <ns1:hasTheme rdf:resource="http://example.org/unrequited_love"/>
+    <ns1:hasTheme rdf:resource="http://example.org/male_lasciviousness"/>
+    <ns1:hasTheme rdf:resource="http://example.org/reconciliation"/>
+    <ns1:themeType>choice</ns1:themeType>
+    <ns1:themeType>major</ns1:themeType>
+    <ns1:themeType>minor</ns1:themeType>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Candida">
+    <ns1:hasTheme rdf:resource="http://example.org/love_triangle"/>
+    <ns1:hasTheme rdf:resource="http://example.org/infatuation"/>
+    <ns1:hasTheme rdf:resource="http://example.org/obsessive_love"/>
+    <ns1:hasTheme rdf:resource="http://example.org/unrequited_love"/>
+    <ns1:hasTheme rdf:resource="http://example.org/husband_and_wife"/>
+    <ns1:hasTheme rdf:resource="http://example.org/the_nature_of_love"/>
+    <ns1:hasTheme rdf:resource="http://example.org/the_battle_of_the_sexes"/>
+    <ns1:hasTheme rdf:resource="http://example.org/romantic_jealousy"/>
+    <ns1:hasTheme rdf:resource="http://example.org/test_of_love"/>
+    <ns1:hasTheme rdf:resource="http://example.org/epic_love"/>
+    <ns1:themeType>major</ns1:themeType>
+    <ns1:themeType>minor</ns1:themeType>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Timon_of_Athens">
+    <ns1:hasTheme rdf:resource="http://example.org/false_friend"/>
+    <ns1:hasTheme rdf:resource="http://example.org/greed_for_riches"/>
+    <ns1:hasTheme rdf:resource="http://example.org/generosity"/>
+    <ns1:hasTheme rdf:resource="http://example.org/friendship"/>
+    <ns1:hasTheme rdf:resource="http://example.org/facing_financial_ruin"/>
+    <ns1:hasTheme rdf:resource="http://example.org/master_and_servant"/>
+    <ns1:hasTheme rdf:resource="http://example.org/misanthropy"/>
+    <ns1:hasTheme rdf:resource="http://example.org/the_desire_for_vengeance"/>
+    <ns1:hasTheme rdf:resource="http://example.org/mercy_vs__justice"/>
+    <ns1:hasTheme rdf:resource="http://example.org/flattery"/>
+    <ns1:themeType>choice</ns1:themeType>
+    <ns1:themeType>major</ns1:themeType>
+    <ns1:themeType>minor</ns1:themeType>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/The_Eunuch">
+    <ns1:hasTheme rdf:resource="http://example.org/obsessive_love"/>
+    <ns1:hasTheme rdf:resource="http://example.org/male_male_rivalry"/>
+    <ns1:hasTheme rdf:resource="http://example.org/reunion_with_a_loved_one"/>
+    <ns1:hasTheme rdf:resource="http://example.org/master_and_slave"/>
+    <ns1:hasTheme rdf:resource="http://example.org/love_triangle"/>
+    <ns1:hasTheme rdf:resource="http://example.org/unrequited_love"/>
+    <ns1:hasTheme rdf:resource="http://example.org/romantic_jealousy"/>
+    <ns1:hasTheme rdf:resource="http://example.org/human_social_need"/>
+    <ns1:hasTheme rdf:resource="http://example.org/brother_and_brother"/>
+    <ns1:hasTheme rdf:resource="http://example.org/love_at_first_sight"/>
+    <ns1:hasTheme rdf:resource="http://example.org/flattery"/>
+    <ns1:hasTheme rdf:resource="http://example.org/torture"/>
+    <ns1:hasTheme rdf:resource="http://example.org/brother_and_sister"/>
+    <ns1:hasTheme rdf:resource="http://example.org/sexual_assault"/>
+    <ns1:hasTheme rdf:resource="http://example.org/father_and_son"/>
+    <ns1:hasTheme rdf:resource="http://example.org/creative_writing"/>
+    <ns1:hasTheme rdf:resource="http://example.org/coping_with_the_death_of_a_parent"/>
+    <ns1:hasTheme rdf:resource="http://example.org/Ancient_Roman_mythology"/>
+    <ns1:hasTheme rdf:resource="http://example.org/false_friend"/>
+    <ns1:hasTheme rdf:resource="http://example.org/slave_trade"/>
+    <ns1:hasTheme rdf:resource="http://example.org/impersonation"/>
+    <ns1:themeType>major</ns1:themeType>
+    <ns1:themeType>minor</ns1:themeType>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/The_Wild_Duck">
+    <ns1:hasTheme rdf:resource="http://example.org/father_and_daughter"/>
+    <ns1:hasTheme rdf:resource="http://example.org/familial_love"/>
+    <ns1:hasTheme rdf:resource="http://example.org/having_a_skeleton_in_the_closet"/>
+    <ns1:hasTheme rdf:resource="http://example.org/blindness"/>
+    <ns1:hasTheme rdf:resource="http://example.org/parenting_a_physically_disabled_child"/>
+    <ns1:hasTheme rdf:resource="http://example.org/neglectful_parent"/>
+    <ns1:hasTheme rdf:resource="http://example.org/husband_and_wife"/>
+    <ns1:hasTheme rdf:resource="http://example.org/extramarital_affair"/>
+    <ns1:hasTheme rdf:resource="http://example.org/realist_vs__idealist"/>
+    <ns1:hasTheme rdf:resource="http://example.org/to_tell_the_truth_vs__to_offer_a_comforting_lie"/>
+    <ns1:hasTheme rdf:resource="http://example.org/escape_from_reality"/>
+    <ns1:themeType>choice</ns1:themeType>
+    <ns1:themeType>major</ns1:themeType>
+    <ns1:themeType>minor</ns1:themeType>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Henry_IV">
+    <ns1:hasTheme rdf:resource="http://example.org/Part_1"/>
+    <ns1:hasTheme rdf:resource="http://example.org/Part_2"/>
+    <ns1:themeType>father and son</ns1:themeType>
+    <ns1:themeType>independence struggle</ns1:themeType>
+    <ns1:themeType>history</ns1:themeType>
+    <ns1:themeType>cowardice</ns1:themeType>
+    <ns1:themeType>the need to prove one's self</ns1:themeType>
+    <ns1:themeType>fatherly disappointment in a son</ns1:themeType>
+    <ns1:themeType>communicating with someone who speaks a different language</ns1:themeType>
+    <ns1:themeType>what if I had to fight to the death</ns1:themeType>
+    <ns1:themeType>friendship</ns1:themeType>
+    <ns1:themeType>coping with being ill and indisposed</ns1:themeType>
+    <ns1:themeType>coping with aging</ns1:themeType>
+    <ns1:themeType>betrayal</ns1:themeType>
+    <ns1:themeType>civil war</ns1:themeType>
+    <ns1:themeType>infatuation</ns1:themeType>
+    <ns1:themeType>master and servant</ns1:themeType>
+    <ns1:themeType>corruption in society</ns1:themeType>
+    <ns1:themeType>young character vs. old character</ns1:themeType>
+    <ns1:themeType>brother and brother</ns1:themeType>
+    <ns1:themeType>coping with the death of a parent</ns1:themeType>
+    <ns1:themeType>magnanimity in victory</ns1:themeType>
+    <ns1:themeType>integrity</ns1:themeType>
+    <ns1:themeType>coming of age</ns1:themeType>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Henry_V">
+    <ns1:hasTheme rdf:resource="http://example.org/war"/>
+    <ns1:hasTheme rdf:resource="http://example.org/history"/>
+    <ns1:hasTheme rdf:resource="http://example.org/the_horrors_of_war"/>
+    <ns1:hasTheme rdf:resource="http://example.org/patriotism"/>
+    <ns1:hasTheme rdf:resource="http://example.org/coping_with_the_rigors_of_command"/>
+    <ns1:hasTheme rdf:resource="http://example.org/communicating_with_someone_who_speaks_a_different_language"/>
+    <ns1:hasTheme rdf:resource="http://example.org/coping_with_the_death_of_a_friend"/>
+    <ns1:hasTheme rdf:resource="http://example.org/the_desire_for_glory_in_battle"/>
+    <ns1:hasTheme rdf:resource="http://example.org/mercy"/>
+    <ns1:hasTheme rdf:resource="http://example.org/Christianity"/>
+    <ns1:hasTheme rdf:resource="http://example.org/infatuation"/>
+    <ns1:hasTheme rdf:resource="http://example.org/duty_vs__love"/>
+    <ns1:themeType>major</ns1:themeType>
+    <ns1:themeType>minor</ns1:themeType>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Twelfth_Night">
+    <ns1:hasTheme rdf:resource="http://example.org/infatuation"/>
+    <ns1:hasTheme rdf:resource="http://example.org/gender_bending"/>
+    <ns1:hasTheme rdf:resource="http://example.org/love_triangle"/>
+    <ns1:hasTheme rdf:resource="http://example.org/romantic_courtship"/>
+    <ns1:hasTheme rdf:resource="http://example.org/manners"/>
+    <ns1:hasTheme rdf:resource="http://example.org/hospitality"/>
+    <ns1:hasTheme rdf:resource="http://example.org/secret_crush"/>
+    <ns1:hasTheme rdf:resource="http://example.org/facing_financial_ruin"/>
+    <ns1:hasTheme rdf:resource="http://example.org/uncle_and_niece"/>
+    <ns1:hasTheme rdf:resource="http://example.org/brother_and_sister"/>
+    <ns1:hasTheme rdf:resource="http://example.org/master_and_servant"/>
+    <ns1:hasTheme rdf:resource="http://example.org/friendship"/>
+    <ns1:hasTheme rdf:resource="http://example.org/facing_an_extraordinary_accusation"/>
+    <ns1:themeType>choice</ns1:themeType>
+    <ns1:themeType>major</ns1:themeType>
+    <ns1:themeType>minor</ns1:themeType>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Troilus_and_Cressida">
+    <ns1:hasTheme rdf:resource="http://example.org/war"/>
+    <ns1:hasTheme rdf:resource="http://example.org/heroism"/>
+    <ns1:hasTheme rdf:resource="http://example.org/romantic_love"/>
+    <ns1:hasTheme rdf:resource="http://example.org/infatuation"/>
+    <ns1:hasTheme rdf:resource="http://example.org/love_vs__career"/>
+    <ns1:hasTheme rdf:resource="http://example.org/the_desire_for_vengeance"/>
+    <ns1:hasTheme rdf:resource="http://example.org/irreverence"/>
+    <ns1:hasTheme rdf:resource="http://example.org/choosing_between_lovers"/>
+    <ns1:hasTheme rdf:resource="http://example.org/star_crossed_lovers"/>
+    <ns1:hasTheme rdf:resource="http://example.org/uncle_and_niece"/>
+    <ns1:hasTheme rdf:resource="http://example.org/romantic_courtship"/>
+    <ns1:hasTheme rdf:resource="http://example.org/male_homosexuality"/>
+    <ns1:hasTheme rdf:resource="http://example.org/father_and_son"/>
+    <ns1:hasTheme rdf:resource="http://example.org/husband_and_wife"/>
+    <ns1:hasTheme rdf:resource="http://example.org/brother_and_sister"/>
+    <ns1:hasTheme rdf:resource="http://example.org/coping_with_aging"/>
+    <ns1:themeType>choice</ns1:themeType>
+    <ns1:themeType>major</ns1:themeType>
+    <ns1:themeType>minor</ns1:themeType>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/The_Doctor_s_Dilemma">
+    <ns1:hasTheme rdf:resource="http://example.org/medical_triage"/>
+    <ns1:hasTheme rdf:resource="http://example.org/infatuation"/>
+    <ns1:hasTheme rdf:resource="http://example.org/con_artistry"/>
+    <ns1:hasTheme rdf:resource="http://example.org/husband_and_wife"/>
+    <ns1:hasTheme rdf:resource="http://example.org/love_triangle"/>
+    <ns1:hasTheme rdf:resource="http://example.org/healthcare_in_society"/>
+    <ns1:hasTheme rdf:resource="http://example.org/duty_vs__love"/>
+    <ns1:hasTheme rdf:resource="http://example.org/the_calculus_of_human_life"/>
+    <ns1:hasTheme rdf:resource="http://example.org/doctor_patient_confidentiality"/>
+    <ns1:hasTheme rdf:resource="http://example.org/experimental_medical_procedure"/>
+    <ns1:hasTheme rdf:resource="http://example.org/The_Hippocratic_Oath"/>
+    <ns1:hasTheme rdf:resource="http://example.org/art_discussion"/>
+    <ns1:hasTheme rdf:resource="http://example.org/painting"/>
+    <ns1:themeType>major</ns1:themeType>
+    <ns1:themeType>minor</ns1:themeType>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Julius_Caesar">
+    <ns1:hasTheme rdf:resource="http://example.org/choosing_between_conflicting_loyalties"/>
+    <ns1:hasTheme rdf:resource="http://example.org/democracy_vs__autocracy"/>
+    <ns1:hasTheme rdf:resource="http://example.org/sacrifice_for_one_s_beliefs"/>
+    <ns1:hasTheme rdf:resource="http://example.org/taking_the_law_into_one_s_own_hands"/>
+    <ns1:hasTheme rdf:resource="http://example.org/political_assassination"/>
+    <ns1:hasTheme rdf:resource="http://example.org/treason"/>
+    <ns1:hasTheme rdf:resource="http://example.org/betrayal"/>
+    <ns1:hasTheme rdf:resource="http://example.org/civil_war"/>
+    <ns1:hasTheme rdf:resource="http://example.org/suicide"/>
+    <ns1:hasTheme rdf:resource="http://example.org/honorable_suicide"/>
+    <ns1:hasTheme rdf:resource="http://example.org/husband_and_wife"/>
+    <ns1:hasTheme rdf:resource="http://example.org/omens"/>
+    <ns1:hasTheme rdf:resource="http://example.org/flattery"/>
+    <ns1:hasTheme rdf:resource="http://example.org/fortune_telling"/>
+    <ns1:hasTheme rdf:resource="http://example.org/humility"/>
+    <ns1:hasTheme rdf:resource="http://example.org/in_law_relationship"/>
+    <ns1:hasTheme rdf:resource="http://example.org/the_desire_for_vengeance"/>
+    <ns1:themeType>choice</ns1:themeType>
+    <ns1:themeType>major</ns1:themeType>
+    <ns1:themeType>minor</ns1:themeType>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Pericles">
+    <ns1:hasTheme rdf:resource="http://example.org/Prince_of_Tyre"/>
+    <ns1:themeType>reunion with a loved one</ns1:themeType>
+    <ns1:themeType>perilous voyage at sea</ns1:themeType>
+    <ns1:themeType>female-female rivalry</ns1:themeType>
+    <ns1:themeType>reunion with a long lost child</ns1:themeType>
+    <ns1:themeType>being bitter about one's life</ns1:themeType>
+    <ns1:themeType>father and daughter</ns1:themeType>
+    <ns1:themeType>incest in society</ns1:themeType>
+    <ns1:themeType>love at first sight</ns1:themeType>
+    <ns1:themeType>incestuous relationship</ns1:themeType>
+    <ns1:themeType>sacrifice for a loved one</ns1:themeType>
+    <ns1:themeType>fall from grace</ns1:themeType>
+    <ns1:themeType>coping with the death of a spouse</ns1:themeType>
+    <ns1:themeType>husband and wife</ns1:themeType>
+    <ns1:themeType>duty vs. conscience</ns1:themeType>
+    <ns1:themeType>sex trade in society</ns1:themeType>
+    <ns1:themeType>mother and daughter</ns1:themeType>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Adelphoe">
+    <ns1:hasTheme rdf:resource="http://example.org/human_parenting"/>
+    <ns1:hasTheme rdf:resource="http://example.org/father_and_son"/>
+    <ns1:hasTheme rdf:resource="http://example.org/brother_and_brother"/>
+    <ns1:hasTheme rdf:resource="http://example.org/human_characters_in_contrast"/>
+    <ns1:hasTheme rdf:resource="http://example.org/fatherly_disappointment_in_a_son"/>
+    <ns1:hasTheme rdf:resource="http://example.org/uncle_and_nephew"/>
+    <ns1:hasTheme rdf:resource="http://example.org/master_and_slave"/>
+    <ns1:hasTheme rdf:resource="http://example.org/carrot_vs__stick"/>
+    <ns1:hasTheme rdf:resource="http://example.org/the_importance_of_reputation"/>
+    <ns1:hasTheme rdf:resource="http://example.org/family_honor"/>
+    <ns1:hasTheme rdf:resource="http://example.org/anger"/>
+    <ns1:hasTheme rdf:resource="http://example.org/human_idea_about_life"/>
+    <ns1:hasTheme rdf:resource="http://example.org/remorse"/>
+    <ns1:hasTheme rdf:resource="http://example.org/creative_writing"/>
+    <ns1:hasTheme rdf:resource="http://example.org/neighbor_and_neighbor"/>
+    <ns1:hasTheme rdf:resource="http://example.org/slavery"/>
+    <ns1:hasTheme rdf:resource="http://example.org/theft"/>
+    <ns1:hasTheme rdf:resource="http://example.org/honesty"/>
+    <ns1:hasTheme rdf:resource="http://example.org/greed_for_riches"/>
+    <ns1:hasTheme rdf:resource="http://example.org/uptight_character_vs__laid_back_character"/>
+    <ns1:hasTheme rdf:resource="http://example.org/infatuation"/>
+    <ns1:hasTheme rdf:resource="http://example.org/slave_trade"/>
+    <ns1:themeType>choice</ns1:themeType>
+    <ns1:themeType>major</ns1:themeType>
+    <ns1:themeType>minor</ns1:themeType>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Henry_VIII">
+    <ns1:hasTheme rdf:resource="http://example.org/fall_from_grace"/>
+    <ns1:hasTheme rdf:resource="http://example.org/divorce"/>
+    <ns1:hasTheme rdf:resource="http://example.org/what_is_truth"/>
+    <ns1:hasTheme rdf:resource="http://example.org/courtly_intrigues"/>
+    <ns1:hasTheme rdf:resource="http://example.org/husband_and_wife"/>
+    <ns1:hasTheme rdf:resource="http://example.org/treason"/>
+    <ns1:hasTheme rdf:resource="http://example.org/what_if_I_was_accused_of_a_crime_that_I_didn_t_commit"/>
+    <ns1:hasTheme rdf:resource="http://example.org/facing_one_s_own_execution"/>
+    <ns1:themeType>choice</ns1:themeType>
+    <ns1:themeType>major</ns1:themeType>
+    <ns1:themeType>minor</ns1:themeType>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Henry_VI">
+    <ns1:hasTheme rdf:resource="http://example.org/Part_2"/>
+    <ns1:hasTheme rdf:resource="http://example.org/Part_3"/>
+    <ns1:hasTheme rdf:resource="http://example.org/Part_1"/>
+    <ns1:themeType>courtly intrigues</ns1:themeType>
+    <ns1:themeType>the lust for power</ns1:themeType>
+    <ns1:themeType>war</ns1:themeType>
+    <ns1:themeType>history</ns1:themeType>
+    <ns1:themeType>civil war</ns1:themeType>
+    <ns1:themeType>husband and wife</ns1:themeType>
+    <ns1:themeType>extramarital affair</ns1:themeType>
+    <ns1:themeType>coping with the defeat of one's people</ns1:themeType>
+    <ns1:themeType>absolute monarchy</ns1:themeType>
+    <ns1:themeType>courage in the face of death</ns1:themeType>
+    <ns1:themeType>coping with the death of someone</ns1:themeType>
+    <ns1:themeType>anti-intellectualism in society</ns1:themeType>
+    <ns1:themeType>communism</ns1:themeType>
+    <ns1:themeType>contraposed political ideologies</ns1:themeType>
+    <ns1:themeType>coping with the death of a lover</ns1:themeType>
+    <ns1:themeType>duty vs. conscience</ns1:themeType>
+    <ns1:themeType>what if I had to fight to the death</ns1:themeType>
+    <ns1:themeType>coping with the death of a parent</ns1:themeType>
+    <ns1:themeType>the desire for vengeance</ns1:themeType>
+    <ns1:themeType>the horrors of war</ns1:themeType>
+    <ns1:themeType>father and son</ns1:themeType>
+    <ns1:themeType>mother and son</ns1:themeType>
+    <ns1:themeType>brother and brother</ns1:themeType>
+    <ns1:themeType>coping with the death of a child</ns1:themeType>
+    <ns1:themeType>coping with having injured someone</ns1:themeType>
+    <ns1:themeType>sexual harassment</ns1:themeType>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/The_Two_Gentlemen_of_Verona">
+    <ns1:hasTheme rdf:resource="http://example.org/love_vs__friendship"/>
+    <ns1:hasTheme rdf:resource="http://example.org/infatuation"/>
+    <ns1:hasTheme rdf:resource="http://example.org/romantic_courtship"/>
+    <ns1:hasTheme rdf:resource="http://example.org/falling_out_of_friendship"/>
+    <ns1:hasTheme rdf:resource="http://example.org/friendship"/>
+    <ns1:hasTheme rdf:resource="http://example.org/love_triangle"/>
+    <ns1:hasTheme rdf:resource="http://example.org/betrayal"/>
+    <ns1:hasTheme rdf:resource="http://example.org/unrequited_love"/>
+    <ns1:hasTheme rdf:resource="http://example.org/gender_bending"/>
+    <ns1:hasTheme rdf:resource="http://example.org/remorse"/>
+    <ns1:hasTheme rdf:resource="http://example.org/father_and_daughter"/>
+    <ns1:hasTheme rdf:resource="http://example.org/father_and_son"/>
+    <ns1:hasTheme rdf:resource="http://example.org/coping_with_the_death_of_a_lover"/>
+    <ns1:hasTheme rdf:resource="http://example.org/gender_issue"/>
+    <ns1:hasTheme rdf:resource="http://example.org/love_is_blind"/>
+    <ns1:themeType>choice</ns1:themeType>
+    <ns1:themeType>major</ns1:themeType>
+    <ns1:themeType>minor</ns1:themeType>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Measure_for_Measure">
+    <ns1:hasTheme rdf:resource="http://example.org/mercy"/>
+    <ns1:hasTheme rdf:resource="http://example.org/mercy_vs__justice"/>
+    <ns1:hasTheme rdf:resource="http://example.org/what_if_I_had_to_have_sex_in_order_to_save_someone"/>
+    <ns1:hasTheme rdf:resource="http://example.org/test_of_loyalty"/>
+    <ns1:hasTheme rdf:resource="http://example.org/brother_and_sister"/>
+    <ns1:hasTheme rdf:resource="http://example.org/having_a_baby_out_of_wedlock"/>
+    <ns1:hasTheme rdf:resource="http://example.org/obsessive_love"/>
+    <ns1:hasTheme rdf:resource="http://example.org/corruption_in_society"/>
+    <ns1:hasTheme rdf:resource="http://example.org/the_letter_of_the_law_vs__the_spirit_of_the_law"/>
+    <ns1:hasTheme rdf:resource="http://example.org/ruthless_character_vs__merciful_character"/>
+    <ns1:hasTheme rdf:resource="http://example.org/ruthlessness"/>
+    <ns1:hasTheme rdf:resource="http://example.org/prostitution_in_society"/>
+    <ns1:hasTheme rdf:resource="http://example.org/hypocritical_character"/>
+    <ns1:hasTheme rdf:resource="http://example.org/self_confidence"/>
+    <ns1:hasTheme rdf:resource="http://example.org/prostitution"/>
+    <ns1:hasTheme rdf:resource="http://example.org/war"/>
+    <ns1:hasTheme rdf:resource="http://example.org/facing_one_s_own_execution"/>
+    <ns1:hasTheme rdf:resource="http://example.org/law_enforcement"/>
+    <ns1:hasTheme rdf:resource="http://example.org/religious_occupation"/>
+    <ns1:hasTheme rdf:resource="http://example.org/duty_vs__conscience"/>
+    <ns1:themeType>choice</ns1:themeType>
+    <ns1:themeType>major</ns1:themeType>
+    <ns1:themeType>minor</ns1:themeType>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Richard_II">
+    <ns1:hasTheme rdf:resource="http://example.org/civil_war"/>
+    <ns1:hasTheme rdf:resource="http://example.org/courtly_intrigues"/>
+    <ns1:hasTheme rdf:resource="http://example.org/absolute_monarchy"/>
+    <ns1:hasTheme rdf:resource="http://example.org/history"/>
+    <ns1:hasTheme rdf:resource="http://example.org/betrayal"/>
+    <ns1:hasTheme rdf:resource="http://example.org/self_confidence"/>
+    <ns1:hasTheme rdf:resource="http://example.org/father_and_son"/>
+    <ns1:hasTheme rdf:resource="http://example.org/treason"/>
+    <ns1:hasTheme rdf:resource="http://example.org/what_if_I_had_to_fight_to_the_death"/>
+    <ns1:hasTheme rdf:resource="http://example.org/corruption_in_society"/>
+    <ns1:hasTheme rdf:resource="http://example.org/murder"/>
+    <ns1:hasTheme rdf:resource="http://example.org/what_if_I_could_never_go_home"/>
+    <ns1:hasTheme rdf:resource="http://example.org/husband_and_wife"/>
+    <ns1:hasTheme rdf:resource="http://example.org/aunt_and_nephew"/>
+    <ns1:hasTheme rdf:resource="http://example.org/facing_life_in_captivity"/>
+    <ns1:themeType>choice</ns1:themeType>
+    <ns1:themeType>major</ns1:themeType>
+    <ns1:themeType>minor</ns1:themeType>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/The_Comedy_of_Errors">
+    <ns1:hasTheme rdf:resource="http://example.org/extramarital_affair"/>
+    <ns1:hasTheme rdf:resource="http://example.org/husband_and_wife"/>
+    <ns1:hasTheme rdf:resource="http://example.org/master_and_servant"/>
+    <ns1:hasTheme rdf:resource="http://example.org/twin_and_twin"/>
+    <ns1:hasTheme rdf:resource="http://example.org/sister_and_sister"/>
+    <ns1:themeType>major</ns1:themeType>
+    <ns1:themeType>minor</ns1:themeType>
+  </rdf:Description>
+</rdf:RDF>
