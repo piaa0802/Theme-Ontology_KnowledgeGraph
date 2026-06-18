@@ -1,30 +1,19 @@
 import csv
-import requests
-import urllib3
 from wikibaseintegrator import WikibaseIntegrator, wbi_login
 from wikibaseintegrator.wbi_config import config as wbi_config
 from wikibaseintegrator.datatypes import Item, String
 
-# --- FIX: SSL-Sicherheitsprüfung für lokales HTTPS deaktivieren ---
-urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
-old_request = requests.Session.request
-def new_request(self, method, url, **kwargs):
-    kwargs['verify'] = False
-    return old_request(self, method, url, **kwargs)
-requests.Session.request = new_request
-# ------------------------------------------------------------------
-
-# 1. Konfiguration für die lokale Wikibase-Instanz (jetzt direkt mit https)
-wbi_config['MEDIAWIKI_API_URL'] = 'https://localhost/w/api.php'
-wbi_config['SPARQL_ENDPOINT_URL'] = 'http://localhost:8989/sparql'
-wbi_config['WIKIBASE_URL'] = 'https://localhost'
+# 1. Konfiguration für Wikibase Cloud
+wbi_config['MEDIAWIKI_API_URL'] = 'https://themeontology.wikibase.cloud/w/api.php'
+wbi_config['SPARQL_ENDPOINT_URL'] = 'https://query.themeontology.wikibase.cloud/sparql'
+wbi_config['WIKIBASE_URL'] = 'https://themeontology.wikibase.cloud'
 
 # Deine IDs! (Stelle sicher, dass P1 und P2 stimmen)
 P_HAS_THEME = 'P1'
 P_THEME_TYPE = 'P2'
 
 # 2. Login
-login = wbi_login.Login(user='pGrafe', password='Wik.password')
+login = wbi_login.Login(user='pgrafe', password='Wik.ibpilb1')
 wbi = WikibaseIntegrator(login=login)
 
 # Ein kleines Dictionary als Zwischenspeicher, um doppelte Anlagen zu vermeiden

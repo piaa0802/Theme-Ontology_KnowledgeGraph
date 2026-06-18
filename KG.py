@@ -15,8 +15,7 @@ folder = "literature"
 # geht durch alle Dateien im Ordner 
 for filename in os.listdir(folder):
     
-    # nur Dateien nehmen, die mit "play" anfangen und .txt sind - haben uns erstmal auf "play" beschränkt 
-    if filename.startswith("play") and filename.endswith(".txt"):
+    if filename.endswith(".txt"):
         
         filepath = os.path.join(folder, filename)
         
