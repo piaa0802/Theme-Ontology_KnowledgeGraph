@@ -1,7 +1,8 @@
 import csv
-from wikibaseintegrator import WikibaseIntegrator, wbi_login
+from wikibaseintegrator import WikibaseIntegrator, wbi_login, wbi_helpers
 from wikibaseintegrator.wbi_config import config as wbi_config
 from wikibaseintegrator.datatypes import Item, String
+from wikibaseintegrator.wbi_enums import ActionIfExists
 
 # 1. Konfiguration für Wikibase Cloud
 wbi_config['MEDIAWIKI_API_URL'] = 'https://themeontology.wikibase.cloud/w/api.php'
@@ -20,16 +21,27 @@ wbi = WikibaseIntegrator(login=login)
 item_cache = {}
 
 def get_or_create_item(name):
-    """Prüft ob ein Item existiert, ansonsten wird es neu in Wikibase angelegt."""
     if name in item_cache:
         return item_cache[name]
-    
-    # Neues leeres Item erstellen
+
+    # Erst in Wikibase suchen, um Duplikate zu vermeiden
+    results = wbi_helpers.search_entities(
+        search_string=name,
+        language='en',
+        mediawiki_api_url=wbi_config['MEDIAWIKI_API_URL']
+    )
+    for qid in results:
+        existing = wbi.item.get(entity_id=qid)
+        label = existing.labels.get(language='en')
+        if label and label.value == name:
+            item_cache[name] = qid
+            print(f"Gefunden: {name} (ID: {qid})")
+            return qid
+
+    # Neu anlegen wenn nicht gefunden
     item = wbi.item.new()
     item.labels.set(language='en', value=name)
-    # Item in die Datenbank schreiben
     item = item.write()
-    
     item_cache[name] = item.id
     print(f"Neu angelegt: {name} (ID: {item.id})")
     return item.id
@@ -69,8 +81,8 @@ with open("output.csv", "r", encoding="utf-8") as f:
         qualifier = String(value=theme_type, prop_nr=P_THEME_TYPE)
         claim.qualifiers.add(qualifier)
 
-        # Die Verbindung dem Werk hinzufügen und speichern
-        work_item.claims.add(claim)
+        # Die Verbindung dem Werk hinzufügen und speichern (APPEND statt REPLACE)
+        work_item.claims.add(claim, action_if_exists=ActionIfExists.APPEND_OR_REPLACE)
         work_item.write()
         
         print(f"Verknüpft: {work} -> {theme} (Typ: {theme_type})")
