@@ -1,4 +1,5 @@
 import csv
+import os
 from wikibaseintegrator import WikibaseIntegrator, wbi_login, wbi_helpers
 from wikibaseintegrator.wbi_config import config as wbi_config
 from wikibaseintegrator.datatypes import Item, String
@@ -13,8 +14,11 @@ wbi_config['WIKIBASE_URL'] = 'https://themeontology.wikibase.cloud'
 P_HAS_THEME = 'P1'
 P_THEME_TYPE = 'P2'
 
-# 2. Login
-login = wbi_login.Login(user='pgrafe', password='Wik.ibpilb1')
+# 2. Login (Zugangsdaten aus Umgebungsvariablen, NICHT im Code speichern!)
+login = wbi_login.Login(
+    user=os.environ['WIKIBASE_USER'],
+    password=os.environ['WIKIBASE_PASSWORD'],
+)
 wbi = WikibaseIntegrator(login=login)
 
 # Ein kleines Dictionary als Zwischenspeicher, um doppelte Anlagen zu vermeiden

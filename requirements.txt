@@ -1,1 +1,4 @@
-
+wikibaseintegrator
+rdflib
+requests
+urllib3

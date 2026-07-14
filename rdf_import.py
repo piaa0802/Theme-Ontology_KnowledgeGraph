@@ -1,3 +1,4 @@
+import os
 import rdflib
 import requests
 import urllib3
@@ -23,7 +24,10 @@ wbi_config['WIKIBASE_URL'] = 'https://localhost'
 
 P_HAS_THEME = 'P1'
 
-login = wbi_login.Login(user='pGrafe', password='Wik.password')
+login = wbi_login.Login(
+    user=os.environ['WIKIBASE_USER'],
+    password=os.environ['WIKIBASE_PASSWORD'],
+)
 wbi = WikibaseIntegrator(login=login)
 
 item_cache = {}

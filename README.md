@@ -8,6 +8,46 @@ The **Literary Themes Ontology Knowledge Graph** is a project aimed at modeling 
 
 The primary goal is to structurally represent literary themes, their hierarchical relationships (sub-themes / super-themes), as well as their occurrences and significance within literary works. The final output is a machine-readable Knowledge Graph that combines both the ontological structure and the story annotations.
 
+##  Installation & Usage
+
+### Requirements
+* Python 3.8+
+* Dependencies listed in `requirements.txt`
+
+### Setup
+```bash
+# 1. Clone the repository
+git clone https://github.com/piaa0802/Theme-Ontology_KnowledgeGraph.git
+cd Theme-Ontology_KnowledgeGraph
+
+# 2. (Optional) create a virtual environment
+python -m venv venv
+source venv/bin/activate      # Windows: venv\Scripts\activate
+
+# 3. Install dependencies
+pip install -r requirements.txt
+```
+
+### Credentials
+The import scripts read the Wikibase login from environment variables
+(never store passwords in the code):
+```bash
+export WIKIBASE_USER="your-username"
+export WIKIBASE_PASSWORD="your-password"
+# Windows (PowerShell):
+# $env:WIKIBASE_USER="your-username"
+# $env:WIKIBASE_PASSWORD="your-password"
+```
+
+### Running the pipeline
+```bash
+# 1. Extract themes from the annotation files into output.csv
+python KG.py
+
+# 2. Import the edge list into Wikibase Cloud
+python wikibase_import.py
+```
+
 ##  Data Source
 This project utilizes data from the publicly available [Theme Ontology Project](https://github.com/theme-ontology/theming). It includes:
 * A defined ontology of several thousand literary themes.
